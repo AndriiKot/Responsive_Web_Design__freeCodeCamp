@@ -1,0 +1,26 @@
+﻿.wrapper_bth{
+  display: flex;
+  justify-content: center;
+}
+
+button{
+  border: none;
+  background-color: rgb(29, 117, 240,0.9);
+  color:aliceblue;
+  font-size: 20px;
+  padding: 10px 16px;
+  margin-top: 16px;
+  cursor:pointer ;
+}
+
+button:hover{
+  background-color: rgb(29, 117, 240,1);
+}
+
+.border button{
+  border: 1px solid rgba(0, 0, 0, 0.356);
+}
+
+.border button:not(:last-child){
+  border-right: none;
+}
