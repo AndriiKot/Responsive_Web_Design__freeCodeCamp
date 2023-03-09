@@ -11,6 +11,7 @@ button{
   padding: 10px 16px;
   margin-top: 16px;
   cursor:pointer ;
+  display: inline-block;
 }
 
 button:hover{
@@ -24,3 +25,15 @@ button:hover{
 .border button:not(:last-child){
   border-right: none;
 }
+
+div.column{
+  /* justify-content: center; */
+  align-items: center;
+  flex-direction: column;
+  margin: 12px;
+ }
+
+ .column button{
+  width: 91px;
+  margin: 0;
+ }
