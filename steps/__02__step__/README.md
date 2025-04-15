@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  2</h3>
+
+<section>
+<p>Add a <code>title</code> element with the text <code>Magazine</code>, a <code>link</code> element for the <code>https://fonts.googleapis.com/css?family=Anton%7CBaskervville%7CRaleway&amp;display=swap</code> font stylesheet, a <code>link</code> for the <code>https://use.fontawesome.com/releases/v5.8.2/css/all.css</code> FontAwesome stylesheet, and a <code>link</code> for your <code>./styles.css</code> stylesheet.</p>
+<p>Your font stylesheet will load three separate fonts: <code>Anton</code>, <code>Baskervville</code>, and <code>Raleway</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step01.png" alt="preview_step01">
   
