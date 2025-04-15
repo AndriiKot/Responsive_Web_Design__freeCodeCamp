@@ -17,6 +17,18 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  3</h3>
+
+<section>
+<p>Within your <code>body</code>, create a <code>main</code> element. Then in that element, create a <code>section</code> with a <code>class</code> set to <code>heading</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step01.png" alt="preview_step01">
   
