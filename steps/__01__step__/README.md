@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  1</h3>
+
+<section>
+<p>Begin with your standard HTML boilerplate. Add a <code>DOCTYPE</code> declaration, an <code>html</code> element specifying this page is in English, a <code>head</code> element, and a <code>body</code> element.</p>
+<p>Add a <code>&lt;meta&gt;</code> tag with the appropriate <code>charset</code> and a <code>&lt;meta&gt;</code> tag for mobile responsiveness within the <code>head</code> element.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step01.png" alt="preview_step01">
   
