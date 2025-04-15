@@ -7,7 +7,7 @@
       <summary>
         <h4>Follow Links Steps</h4>
       </summary>
-
+       
 <table>
   <thead>
     <tr><th><a href="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp//tree/main/steps/__00__title_" target="_self">Step 0</a></th><th><a href="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp//tree/main/steps/__01__step__" target="_self">Step 1</a></th></tr>
@@ -19,7 +19,7 @@
 
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_project.png" alt="preview_project">
-
+  
 
 [back to top](#top)
 
@@ -35,3 +35,52 @@
 
 [back to top](#top)
 
+
+
+<details open>
+  <summary>
+    <h4>index.html</h4>
+  </summary>
+
+
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Magazine</title>
+</head>
+<body>
+
+</body>
+</html>
+
+```
+
+
+
+[back to top](#top)
+
+
+</details>
+
+<details open>
+  <summary>
+    <h4>styles.css</h4>
+  </summary>
+
+
+
+```css
+
+
+```
+
+
+
+[back to top](#top)
+
+
+</details>
