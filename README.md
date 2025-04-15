@@ -53,7 +53,6 @@
     <title>Magazine</title>
 </head>
 <body>
-
 </body>
 </html>
 
