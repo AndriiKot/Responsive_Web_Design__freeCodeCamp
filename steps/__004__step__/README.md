@@ -17,6 +17,21 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  4</h3>
+
+<section>
+<p>Within your <code>.heading</code> element, create a <code>header</code> element with the <code>class</code> set to <code>hero</code>.</p>
+<p>In that element, create an <code>img</code> element with the <code>src</code> set to <code>https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png</code>, the <code>alt</code> set to <code>freecodecamp logo</code>, and the <code>class</code> set to <code>hero-img</code>.</p>
+<p>The <code>loading</code> attribute on an <code>img</code> element can be set to <code>lazy</code> to tell the browser not to fetch the image resource until it is needed (as in, when the user scrolls the image into view). As an additional benefit, lazy loaded elements will not load until the non-lazy elements are loaded - this means users with slow internet connections can view the content of your page without having to wait for the images to load.</p>
+<p>Give your new <code>img</code> element a <code>loading</code> attribute set to <code>lazy</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step004.png" alt="preview_step004">
   
