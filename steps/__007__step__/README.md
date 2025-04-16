@@ -80,7 +80,7 @@
         <div class="author">
           <p class="author-name">By <a href="https://freecodecamp.org" target="_blank">freeCodeCamp</a></p>
           <p class="publish-date">March 7, 2019</p>
-        <div>
+        </div>
       </section>
     </main>
   </body>
