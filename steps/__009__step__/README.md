@@ -17,6 +17,26 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  9</h3>
+
+<section>
+<p>Below your <code>.author</code> element, create a new <code>div</code> element with the class <code>social-icons</code>.</p>
+<p>Add five <code>a</code> elements within that new <code>div</code>, and give them the following <code>href</code> attributes.</p>
+<ul>
+<li>The first <code>a</code> element should have an <code>href</code> set to <code>https://www.facebook.com/freecodecamp</code>.</li>
+<li>The second <code>a</code> element should have an <code>href</code> set to <code>https://twitter.com/freecodecamp</code>.</li>
+<li>The third <code>a</code> element should have an <code>href</code> set to <code>https://instagram.com/freecodecamp</code>.</li>
+<li>The fourth <code>a</code> element should have an <code>href</code> set to <code>https://www.linkedin.com/school/free-code-camp</code>.</li>
+<li>The fifth <code>a</code> element should have an <code>href</code> set to <code>https://www.youtube.com/freecodecamp</code>.</li>
+</ul>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step007.png" alt="preview_step007">
   
