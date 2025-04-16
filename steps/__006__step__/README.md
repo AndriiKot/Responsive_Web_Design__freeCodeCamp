@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  6</h3>
+
+<section>
+<p>Your image currently takes up a lot of space. To better see what you are working on, add a <code>width</code> attribute to the <code>img</code> element, with a value of <code>400</code>.</p>
+<p>You will remove this later on when you have worked on the CSS.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step006.png" alt="preview_step006">
   
