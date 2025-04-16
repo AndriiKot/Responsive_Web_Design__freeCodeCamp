@@ -17,6 +17,18 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  5</h3>
+
+<section>
+<p>After your <code>img</code> element, add an <code>h1</code> element with the <code>class</code> set to <code>hero-title</code> and the text set to <code>OUR NEW CURRICULUM</code>, followed by a <code>p</code> element with the <code>class</code> set to <code>hero-subtitle</code> and the text set to <code>Our efforts to restructure our curriculum with a more project-based focus</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step005.png" alt="preview_step005">
   
