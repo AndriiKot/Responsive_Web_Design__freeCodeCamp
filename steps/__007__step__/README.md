@@ -17,6 +17,20 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  7</h3>
+
+<section>
+<p>After your <code>header</code> element, create a <code>div</code> with the <code>class</code> set to <code>author</code>.</p>
+<p>Within that <code>div</code>, create a <code>p</code> element with the <code>class</code> set to <code>author-name</code> and give it the text <code>By freeCodeCamp</code>. Wrap the <code>freeCodeCamp</code> portion in an <code>a</code> element with the <code>href</code> set to <code>https://freecodecamp.org</code>, and the <code>target</code> set to <code>_blank</code>.</p>
+<p>Below that, add a second <code>p</code> element with the class <code>publish-date</code> and the text <code>March 7, 2019</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step007.png" alt="preview_step007">
   
