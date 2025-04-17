@@ -17,6 +17,20 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  12</h3>
+
+<section>
+<p>Create another <code>p</code> element below your <code>.first-paragraph</code> element, and give it the following text:</p>
+<details class="code-details" open=""><summary class="code-details-summary">Example Code</summary><pre class="language-markup" tabindex="0" role="region" aria-label=" code example"><code class="language-markup">After years - years - of pondering these two problems and how to solve them, I slipped, hit my head on the sink, and when I came to I had a revelation! A vision! A picture in my head! A picture of this! This is what makes time travel possible: the flux capacitor!
+</code></pre></details>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step012.png" alt="preview_step012">
   
