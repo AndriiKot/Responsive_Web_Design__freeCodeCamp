@@ -17,6 +17,20 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  13</h3>
+
+<section>
+<p>Add a third <code>p</code> element at the end of your <code>.text</code> element, and give it the following text:</p>
+<details class="code-details" open=""><summary class="code-details-summary">Example Code</summary><pre class="language-markup" tabindex="0" role="region" aria-label=" code example"><code class="language-markup">It wasn't as dramatic as Doc's revelation in Back to the Future. It just occurred to me while I was going for a run. The revelation: the entire curriculum should be a series of projects. Instead of individual coding challenges, we'll just have projects, each with their own seamless series of tests. Each test gives you just enough information to figure out how to get it to pass. (And you can view hints if that isn't enough.)
+</code></pre></details>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step013.png" alt="preview_step013">
   
