@@ -17,6 +17,20 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  11</h3>
+
+<section>
+<p>Below your <code>.heading</code> element, create a new <code>section</code> element with the <code>class</code> set to <code>text</code>. Within that, create a <code>p</code> element with the <code>class</code> set to <code>first-paragraph</code> and the following text:</p>
+<details class="code-details" open=""><summary class="code-details-summary">Example Code</summary><pre class="language-markup" tabindex="0" role="region" aria-label=" code example"><code class="language-markup">Soon the freeCodeCamp curriculum will be 100% project-driven learning. Instead of a series of coding challenges, you'll learn through building projects - step by step. Before we get into the details, let me emphasize: we are not changing the certifications. All 6 certifications will still have the same 5 required projects. We are only changing the optional coding challenges.
+</code></pre></details>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step011.png" alt="preview_step011">
   
