@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  14</h3>
+
+<section>
+<p>After the three <code>p</code> elements within your <code>.text</code> element, create a <code>blockquote</code> element. Within that, add an <code>hr</code> element, a <code>p</code> element with the <code>class</code> set to <code>quote</code>, and a second <code>hr</code> element.</p>
+<p>Give the <code>.quote</code> element the text <code>The entire curriculum should be a series of projects</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step014.png" alt="preview_step014">
   
