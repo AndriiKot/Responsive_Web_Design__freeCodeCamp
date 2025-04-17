@@ -17,6 +17,25 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  10</h3>
+
+<section>
+<p>Within each of your new <code>a</code> elements, add an <code>i</code> element and give them the following classes:</p>
+<ul>
+<li>Your first <code>i</code> element should have the class <code>fab fa-facebook-f</code></li>
+<li>Your second <code>i</code> element should have the class <code>fab fa-twitter</code></li>
+<li>Your third <code>i</code> element should have the class <code>fab fa-instagram</code></li>
+<li>Your fourth <code>i</code> element should have the class <code>fab fa-linkedin-in</code></li>
+<li>Your fifth <code>i</code> element should have the class <code>fab fa-youtube</code></li>
+</ul>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step007.png" alt="preview_step007">
   
