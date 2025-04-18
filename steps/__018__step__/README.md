@@ -17,6 +17,18 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  18</h3>
+
+<section>
+<p>Below your <code>.text</code> element, create a new <code>section</code> element and give it a <code>class</code> of <code>text text-with-images</code>. Within that, create an <code>article</code> element with a <code>class</code> set to <code>brief-history</code>, and an <code>aside</code> element with the <code>class</code> set to <code>image-wrapper</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step017.png" alt="preview_step017">
   
