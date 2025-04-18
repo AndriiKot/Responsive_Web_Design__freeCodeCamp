@@ -17,6 +17,18 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  19</h3>
+
+<section>
+<p>Within your <code>article</code> element, create an <code>h3</code> element with the <code>class</code> set to <code>list-title</code> and the text of <code>A Brief History</code>. Below that, create a <code>p</code> element with the text <code>Of the Curriculum</code>. Then create a <code>ul</code> element with the class <code>lists</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step019.png" alt="preview_step019">
   
