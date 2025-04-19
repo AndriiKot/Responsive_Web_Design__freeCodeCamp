@@ -17,6 +17,18 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  22</h3>
+
+<section>
+<p>Within the <code>.image-wrapper</code> element, give your first <code>img</code> element a <code>src</code> of <code>https://cdn.freecodecamp.org/testable-projects-fcc/images/random-quote-machine.png</code>, an <code>alt</code> of <code>image of the quote machine project</code>, a <code>class</code> of <code>image-1</code>, a <code>loading</code> attribute set to <code>lazy</code>, a <code>width</code> attribute of <code>600</code>, and a <code>height</code> attribute of <code>400</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step022.png" alt="preview_step022">
   
