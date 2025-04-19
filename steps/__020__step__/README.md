@@ -17,6 +17,27 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  20</h3>
+
+<section>
+<p>Within your <code>ul</code> element, create six <code>li</code> elements. Add an <code>h4</code> element with a <code>class</code> set to <code>list-subtitle</code> and a <code>p</code> element to each of your <code>li</code> elements.</p>
+<p>Then give the <code>h4</code> and <code>p</code> elements the following text content, in order, with each <code>h4</code> using what's on the left side of the colon, and each <code>p</code> using what's on the right:</p>
+<ul>
+<li><code>V1 - 2014</code>: <code>We launched freeCodeCamp with a simple list of 15 resources, including Harvard's CS50 and Stanford's Database Class.</code></li>
+<li><code>V2 - 2015</code>: <code>We added interactive algorithm challenges.</code></li>
+<li><code>V3 - 2015</code>: <code>We added our own HTML+CSS challenges (before we'd been relying on General Assembly's Dash course for these).</code></li>
+<li><code>V4 - 2016</code>: <code>We expanded the curriculum to 3 certifications, including Front End, Back End, and Data Visualization. They each had 10 required projects, but only the Front End section had its own challenges. For the other certs, we were still using external resources like Node School.</code></li>
+<li><code>V5 - 2017</code>: <code>We added the back end and data visualization challenges.</code></li>
+<li><code>V6 - 2018</code>: <code>We launched 6 new certifications to replace our old ones. This was the biggest curriculum improvement to date.</code></li>
+</ul>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step020.png" alt="preview_step020">
   
