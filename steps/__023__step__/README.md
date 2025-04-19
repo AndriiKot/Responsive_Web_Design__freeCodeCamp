@@ -17,6 +17,18 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  23</h3>
+
+<section>
+<p>Within your <code>.image-wrapper</code> element, give the second <code>img</code> element a <code>src</code> of <code>https://cdn.freecodecamp.org/testable-projects-fcc/images/calc.png</code>, an <code>alt</code> of <code>image of a calculator project</code>, a <code>loading</code> attribute set to <code>lazy</code>, a <code>class</code> set to <code>image-2</code>, a <code>width</code> attribute set to <code>400</code>, and a <code>height</code> attribute set to <code>400</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step023.png" alt="preview_step023">
   
