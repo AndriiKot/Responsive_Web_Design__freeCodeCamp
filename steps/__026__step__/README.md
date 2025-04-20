@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  26</h3>
+
+<section>
+<p>To start your CSS, normalize the CSS rules by targeting all elements with <code>*</code>, including the <code>::before</code> and <code>::after</code> pseudo-selectors.</p>
+<p>Set the <code>padding</code> and <code>margin</code> properties both to <code>0</code> and set the <code>box-sizing</code> property to <code>border-box</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step026.png" alt="preview_step026">
   
