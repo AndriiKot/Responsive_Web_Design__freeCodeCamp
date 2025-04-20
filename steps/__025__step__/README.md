@@ -17,6 +17,18 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  25</h3>
+
+<section>
+<p>Within your <code>.image-quote</code> element, nest an <code>hr</code> element, a <code>p</code> element and a second <code>hr</code> element. Give the <code>p</code> element a <code>class</code> set to <code>quote</code> and the text <code>The millions of people who are learning to code through freeCodeCamp will have an even better resource to help them learn these fundamentals.</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step025.png" alt="preview_step025">
   
