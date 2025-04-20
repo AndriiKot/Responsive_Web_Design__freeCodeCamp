@@ -17,6 +17,18 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  29</h3>
+
+<section>
+<p>Create an <code>h1</code> selector, and set the <code>font-family</code> property to <code>Anton</code> with the fallback of <code>sans-serif</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step029.png" alt="preview_step029">
   
