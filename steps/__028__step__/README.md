@@ -17,6 +17,18 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  28</h3>
+
+<section>
+<p>Create a <code>body</code> selector. Set the <code>font-family</code> property to <code>Baskervville</code>, with a fallback of <code>serif</code>. Set the <code>color</code> property to <code>linen</code> and the <code>background-color</code> property to <code>rgb(20, 30, 40)</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step028.png" alt="preview_step028">
   
