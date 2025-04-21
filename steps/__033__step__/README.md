@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  33</h3>
+
+<section>
+<p>Now you can style the layout of your grid. CSS Grid is similar to Flexbox in that it has a special property for both the parent and child elements.</p>
+<p>In this case, your parent element is the <code>main</code> element. Set the content to have a three-column layout by adding a <code>grid-template-columns</code> property with a value of <code>1fr 94rem 1fr</code>. This will create three columns where the middle column is <code>94rem</code> wide, and the first and last columns are both 1 fraction of the remaining space in the grid container.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step033.png" alt="preview_step033">
   
