@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  34</h3>
+
+<section>
+<p>Use the <code>minmax</code> function to make your columns responsive on any device. The <code>minmax</code> function takes two arguments, the first being the minimum value and the second being the maximum. These values could be a length, percentage, <code>fr</code>, or even a keyword like <code>max-content</code>.</p>
+<p>Wrap each of your already defined values of the <code>grid-template-columns</code> property in a <code>minmax</code> function, using each value as the second argument. The first argument should be <code>2rem</code>, <code>min-content</code>, and <code>2rem</code> respectively.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step034.png" alt="preview_step034">
   
