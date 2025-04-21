@@ -17,6 +17,18 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  35</h3>
+
+<section>
+<p>To add space between rows in the grid layout, you can use the <code>row-gap</code> property. Give the <code>main</code> selector a <code>row-gap</code> property of <code>3rem</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step035.png" alt="preview_step035">
   
