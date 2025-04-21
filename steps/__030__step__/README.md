@@ -17,6 +17,18 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  30</h3>
+
+<section>
+<p>Create an <code>h2, h3, h4, h5, h6</code> selector. Give it a <code>font-family</code> property set to <code>Raleway</code> with a fallback of <code>sans-serif</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step030.png" alt="preview_step030">
   
