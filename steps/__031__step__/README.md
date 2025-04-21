@@ -17,6 +17,18 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  31</h3>
+
+<section>
+<p>Create an <code>a</code> selector, and give it a <code>text-decoration</code> property set to <code>none</code> and a <code>color</code> property set to <code>linen</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step031.png" alt="preview_step031">
   
