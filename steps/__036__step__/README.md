@@ -17,6 +17,20 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  36</h3>
+
+<section>
+<p>Your magazine will have three primary sections. You already set the overall layout in the <code>main</code> rule, but you can adjust the placement in the child rules.</p>
+<p>One option is the <code>grid-column</code> property, which is shorthand for <code>grid-column-start</code> and <code>grid-column-end</code>. The <code>grid-column</code> property tells the grid item which grid line to start and end at.</p>
+<p>Create a <code>.heading</code> rule and set the <code>grid-column</code> property to <code>2 / 3</code>. This will tell the <code>.heading</code> element to start at grid line 2 and end at grid line 3.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step036.png" alt="preview_step036">
   
