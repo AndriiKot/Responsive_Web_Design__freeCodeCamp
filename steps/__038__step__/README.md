@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  38</h3>
+
+<section>
+<p>For additional control over the layout of your content, you can have a CSS Grid within a CSS Grid.</p>
+<p>Set the <code>display</code> property of your <code>.heading</code> selector to <code>grid</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step038.png" alt="preview_step038">
   
