@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  41</h3>
+
+<section>
+<p>Remember that the <code>grid-column</code> property determines which columns an element starts and ends at. There may be times where you are unsure of how many columns your grid will have, but you want an element to stop at the last column. To do this, you can use <code>-1</code> for the end column.</p>
+<p>Create a <code>.hero</code> selector and give it a <code>grid-column</code> property set to <code>1 / -1</code>. This will tell the element to span the full width of the grid.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step041.png" alt="preview_step041">
   
