@@ -17,6 +17,20 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  39</h3>
+
+<section>
+<p>Now you can style the content of the <code>.heading</code> element with CSS Grid.</p>
+<p>The CSS <code>repeat()</code> function is used to repeat a value, rather than writing it out manually, and is helpful for grid layouts. For example, setting the <code>grid-template-columns</code> property to <code>repeat(20, 200px)</code> would create 20 columns each <code>200px</code> wide.</p>
+<p>Give your <code>.heading</code> element a <code>grid-template-columns</code> property set to <code>repeat(2, 1fr)</code> to create two columns of equal width.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step039.png" alt="preview_step039">
   
