@@ -17,6 +17,18 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  43</h3>
+
+<section>
+<p>You should remove the temporary <code>width</code> attribute before writing the CSS for your <code>.hero-img</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step043.png" alt="preview_step043">
   
