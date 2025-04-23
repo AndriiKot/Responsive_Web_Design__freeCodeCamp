@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  44</h3>
+
+<section>
+<p>Create an <code>img</code> selector and give it a <code>width</code> property set to <code>100%</code>, and an <code>object-fit</code> property set to <code>cover</code>.</p>
+<p>The <code>object-fit</code> property tells the browser how to position the element within its container. In this case, <code>cover</code> will set the image to fill the container, cropping as needed to avoid changing the aspect ratio.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step044.png" alt="preview_step044">
   
