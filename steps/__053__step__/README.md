@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  53</h3>
+
+<section>
+<p>Now the auto-placement algorithm will kick in when you add a new icon element. However, the algorithm defaults the new column width to be <code>auto</code>, which will not match your current columns.</p>
+<p>You can override this with the <code>grid-auto-columns</code> property. Give the <code>.social-icons</code> selector a <code>grid-auto-columns</code> property set to <code>1fr</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step052.png" alt="preview_step052">
   
