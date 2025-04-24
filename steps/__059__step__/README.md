@@ -17,6 +17,18 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  59</h3>
+
+<section>
+<p>The other text has been shifted out of place. Move it into position by giving the <code>.first-paragraph::first-letter</code> selector a <code>float</code> property set to <code>left</code> and a <code>margin-right</code> property set to <code>1rem</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step059.png" alt="preview_step059">
   
