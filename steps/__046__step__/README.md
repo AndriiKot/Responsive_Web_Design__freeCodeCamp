@@ -17,6 +17,18 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  46</h3>
+
+<section>
+<p>The subtitle also needs to be styled. Create a <code>.hero-subtitle</code> selector and give it a <code>font-size</code> property set to <code>2.4rem</code>, a <code>color</code> property set to <code>orangered</code>, and a <code>text-align</code> property set to <code>center</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step046.png" alt="preview_step046">
   
