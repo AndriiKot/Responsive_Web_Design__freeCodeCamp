@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  56</h3>
+
+<section>
+<p>Your <code>.text</code> element is not a CSS Grid, but you can create columns within an element without using Grid by using the <code>column-width</code> property.</p>
+<p>Give your <code>.text</code> selector a <code>column-width</code> property set to <code>25rem</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step056.png" alt="preview_step056">
   
