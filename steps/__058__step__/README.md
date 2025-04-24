@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  58</h3>
+
+<section>
+<p>The <code>::first-letter</code> pseudo-selector allows you to target the first letter in the text content of an element.</p>
+<p>Create a <code>.first-paragraph::first-letter</code> selector and set the <code>font-size</code> property to <code>6rem</code>. Also give it a <code>color</code> property set to <code>orangered</code> to make it stand out.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step058.png" alt="preview_step058">
   
