@@ -17,6 +17,18 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  49</h3>
+
+<section>
+<p>Create a <code>.publish-date</code> selector and give it a <code>color</code> property of <code>rgba(255, 255, 255, 0.5)</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step049.png" alt="preview_step049">
   
