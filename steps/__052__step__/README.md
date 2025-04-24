@@ -17,6 +17,20 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  52</h3>
+
+<section>
+<p>If you wanted to add more social icons, but keep them on the same row, you would need to update <code>grid-template-columns</code> to create additional columns. As an alternative, you can use the <code>grid-auto-flow</code> property.</p>
+<p>This property takes either <code>row</code> or <code>column</code> as the first value, with an optional second value of <code>dense</code>. <code>grid-auto-flow</code> uses an auto-placement algorithm to adjust the grid layout. Setting it to <code>column</code> will tell the algorithm to create new columns for content as needed. The <code>dense</code> value allows the algorithm to backtrack and fill holes in the grid with smaller items, which can result in items appearing out of order.</p>
+<p>For your <code>.social-icons</code> selector, set the <code>grid-auto-flow</code> property to <code>column</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step052.png" alt="preview_step052">
   
