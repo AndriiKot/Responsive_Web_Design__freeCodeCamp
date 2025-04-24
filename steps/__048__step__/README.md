@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  48</h3>
+
+<section>
+<p>Create a <code>.author-name a:hover</code> selector and give it a <code>background-color</code> property set to <code>#306203</code>.</p>
+<p>This will create a hover effect only for the <code>a</code> element within the <code>.author-name</code>, showing the original freeCodeCamp green in the background.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step048.png" alt="preview_step048">
   
