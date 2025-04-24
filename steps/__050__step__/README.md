@@ -17,6 +17,18 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  50</h3>
+
+<section>
+<p>Create a <code>.social-icons</code> selector. Give it a <code>display</code> property set to <code>grid</code>, and a <code>font-size</code> property set to <code>3rem</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step050.png" alt="preview_step050">
   
