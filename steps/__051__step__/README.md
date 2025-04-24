@@ -17,6 +17,18 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  51</h3>
+
+<section>
+<p>The default settings for CSS Grid will create additional rows as needed, unlike Flexbox. Give the <code>.social-icons</code> selector a <code>grid-template-columns</code> property set to <code>repeat(5, 1fr)</code> to arrange the icons in a single row.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step051.png" alt="preview_step051">
   
