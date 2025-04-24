@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  54</h3>
+
+<section>
+<p>Much like Flexbox, with CSS Grid you can align the content of grid items with <code>align-items</code> and <code>justify-items</code>. <code>align-items</code> will align child elements along the column axis, and <code>justify-items</code> will align child elements along the row axis.</p>
+<p>Give the <code>.social-icons</code> selector an <code>align-items</code> property set to <code>center</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step054.png" alt="preview_step054">
   
