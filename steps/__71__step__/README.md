@@ -17,6 +17,18 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  71</h3>
+
+<section>
+<p>Create a <code>.list-title, .list-subtitle</code> selector and set the <code>color</code> property to <code>#00beef</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step071.png" alt="preview_step071">
   
