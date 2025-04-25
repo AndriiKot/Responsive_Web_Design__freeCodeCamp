@@ -17,6 +17,20 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  64</h3>
+
+<section>
+<p>A quote is not really a quote without proper quotation marks. You can add these with CSS pseudo selectors.</p>
+<p>Create a <code>.quote::before</code> selector and set the <code>content</code> property to <code>"</code> with a space following it.</p>
+<p>Also, create a <code>.quote::after</code> selector and set the <code>content</code> property to <code>"</code> with a space preceding it.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step064.png" alt="preview_step064">
   
