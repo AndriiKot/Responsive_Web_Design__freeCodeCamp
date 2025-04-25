@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  80</h3>
+
+<section>
+<p>Create one final <code>@media</code> query for <code>only screen</code> with a <code>max-width</code> of <code>420px</code>. Within, create a <code>.hero-title</code> selector with a <code>font-size</code> property set to <code>4.5rem</code>.</p>
+<p>Congratulations! Your magazine is now complete.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step080.png" alt="preview_step080">
   
