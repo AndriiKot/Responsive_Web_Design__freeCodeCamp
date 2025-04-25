@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  78</h3>
+
+<section>
+<p>Create another <code>@media</code> query for <code>only screen</code> with a <code>max-width</code> of <code>600px</code>. Within, create a <code>.text-with-images</code> rule and give it a <code>grid-template-columns</code> property of <code>1fr</code>.</p>
+<p>This will collapse your bottom text area into a single column on smaller screens.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step078.png" alt="preview_step078">
   
