@@ -17,6 +17,18 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  70</h3>
+
+<section>
+<p>Create a <code>.lists li</code> rule to target the list items within your <code>.lists</code> element. Give it a <code>margin-bottom</code> property set to <code>1.5rem</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step070.png" alt="preview_step070">
   
