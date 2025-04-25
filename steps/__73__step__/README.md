@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  73</h3>
+
+<section>
+<p>The images should be within a two column, three row layout.</p>
+<p>Give the <code>.image-wrapper</code> selector a <code>grid-template-columns</code> property set to <code>2fr 1fr</code> and a <code>grid-template-rows</code> property set to <code>repeat(3, min-content)</code>. This will give our grid rows that adjust in height based on the content, but columns that remain a fixed width based on the container.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step073.png" alt="preview_step073">
   
