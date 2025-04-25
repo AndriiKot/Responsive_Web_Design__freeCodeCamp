@@ -17,6 +17,18 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  69</h3>
+
+<section>
+<p>Give the <code>.lists</code> selector a <code>margin-top</code> property set to <code>2rem</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step069.png" alt="preview_step069">
   
