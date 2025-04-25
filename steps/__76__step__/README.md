@@ -17,6 +17,18 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  76</h3>
+
+<section>
+<p>Create an <code>.image-1, .image-3</code> rule and give it a <code>grid-column</code> property set to <code>1 / -1</code>. This will allow the first and third images to span the full width of the grid.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step076.png" alt="preview_step076">
   
