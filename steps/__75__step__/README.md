@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  75</h3>
+
+<section>
+<p>The <code>place-items</code> property can be used to set the <code>align-items</code> and <code>justify-items</code> values at the same time. The <code>place-items</code> property takes one or two values. If one value is provided, it is used for both the <code>align-items</code> and <code>justify-items</code> properties. If two values are provided, the first value is used for the <code>align-items</code> property and the second value is used for the <code>justify-items</code> property.</p>
+<p>Give the <code>.image-wrapper</code> selector a <code>place-items</code> property set to <code>center</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step075.png" alt="preview_step075">
   
