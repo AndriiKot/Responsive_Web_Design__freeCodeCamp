@@ -17,6 +17,20 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  77</h3>
+
+<section>
+<p>Now that the magazine layout is finished, you need to make it responsive.</p>
+<p>Start with a <code>@media</code> query for <code>only screen</code> with a <code>max-width</code> of <code>720px</code>. Inside, create an <code>.image-wrapper</code> selector and give it a <code>grid-template-columns</code> property of <code>1fr</code>.</p>
+<p>This will collapse the three images into one column on smaller screens.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step077.png" alt="preview_step077">
   
