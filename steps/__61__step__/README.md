@@ -17,6 +17,18 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  61</h3>
+
+<section>
+<p>To give the <code>hr</code> a color, you need to adjust the <code>border</code> property. Give the <code>hr</code> selector a <code>border</code> property set to <code>1px solid rgba(120, 120, 120, 0.6)</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step061.png" alt="preview_step061">
   
