@@ -17,6 +17,18 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  66</h3>
+
+<section>
+<p>You will need to have a column for text and a column for images. Give the <code>.text-with-images</code> selector a <code>grid-template-columns</code> property set to <code>1fr 2fr</code>. Also set the <code>column-gap</code> property to <code>3rem</code> to provide more spacing between the columns.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step066.png" alt="preview_step066">
   
