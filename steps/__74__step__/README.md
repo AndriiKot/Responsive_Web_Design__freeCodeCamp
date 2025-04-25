@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  74</h3>
+
+<section>
+<p>The <code>gap</code> property is a shorthand way to set the value of <code>column-gap</code> and <code>row-gap</code> at the same time. If given one value, it sets the <code>column-gap</code> and <code>row-gap</code> both to that value. If given two values, it sets the <code>row-gap</code> to the first value and the <code>column-gap</code> to the second.</p>
+<p>Give the <code>.image-wrapper</code> selector a <code>gap</code> property set to <code>2rem</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step074.png" alt="preview_step074">
   
