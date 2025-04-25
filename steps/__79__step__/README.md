@@ -17,6 +17,18 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  79</h3>
+
+<section>
+<p>Create a third <code>@media</code> query for <code>only screen</code> with a <code>max-width</code> of <code>550px</code>. Within, create a <code>.hero-title</code> selector with a <code>font-size</code> set to <code>6rem</code>, a <code>.hero-subtitle, .author, .quote, .list-title</code> selector with a <code>font-size</code> set to <code>1.8rem</code>, a <code>.social-icons</code> selector with a <code>font-size</code> set to <code>2rem</code>, and a <code>.text</code> selector with a <code>font-size</code> set to <code>1.6rem</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step079.png" alt="preview_step079">
   
