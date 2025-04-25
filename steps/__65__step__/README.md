@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  65</h3>
+
+<section>
+<p>Now it's time to style your third <code>section</code>. Note that it has the <code>text</code> and <code>text-with-images</code> values for the <code>class</code> attribute, which means it is already inheriting the styles from your <code>.text</code> rule.</p>
+<p>Create a <code>.text-with-images</code> selector and set the <code>display</code> property to <code>grid</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step065.png" alt="preview_step065">
   
