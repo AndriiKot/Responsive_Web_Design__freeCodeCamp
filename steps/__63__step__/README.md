@@ -17,6 +17,18 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  63</h3>
+
+<section>
+<p>To make the quote text stand out more, give the <code>.quote</code> selector a <code>font-family</code> property set to <code>Raleway</code> with a fallback of <code>sans-serif</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step063.png" alt="preview_step063">
   
