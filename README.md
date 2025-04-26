@@ -16,7 +16,7 @@
 </table>
 </details>
 
-<details>
+<details open>
   <summary>
    <h4>preview</h4>
   </summary>
@@ -24,8 +24,15 @@
           <summary>
             <h5>Desktop</h5>
           </summary>
-          <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step080.png" alt="preview_step080">
+            <details open>
+                  <summary>
+                    <h6>header</h6>
+                  </summary>
+                            <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step080.png" alt="preview_step080">
+
+            </details>
     </details>
+
 </details>
 
 [back to top](#top)
