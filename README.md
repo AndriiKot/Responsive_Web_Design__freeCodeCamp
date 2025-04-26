@@ -38,7 +38,7 @@
                   <summary>
                     <h5>main</h5>
                   </summary>
-                    </h6>main-1</h6>
+                    <h6>main-1</h6>
                       <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/final-project/images/previews/preview__final-project/desktop-preview/desktop-preview__main-1.png"
                       alt="desktop-preview__main-1">
                     <h6>main-2</h6>
