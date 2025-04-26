@@ -29,10 +29,8 @@
                     <h6>header</h6>
                   </summary>
                             <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step080.png" alt="preview_step080">
-
             </details>
     </details>
-
 </details>
 
 [back to top](#top)
