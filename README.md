@@ -20,7 +20,12 @@
   <summary>
    <h4>preview</h4>
   </summary>
+    <details open>
+          <summary>
+            <h5>Desktop</h5>
+          </summary>
           <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step080.png" alt="preview_step080">
+    </details>
 </details>
 
 [back to top](#top)
