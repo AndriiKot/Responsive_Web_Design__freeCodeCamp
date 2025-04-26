@@ -18,11 +18,22 @@
 
 <details open>
   <summary>
-   <h4>preview</h4>
+   <h4>PREVIEW</h4>
   </summary>
     <details open>
           <summary>
             <h5>Desktop</h5>
+          </summary>
+            <details open>
+                  <summary>
+                    <h6>header</h6>
+                  </summary>
+                            <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step080.png" alt="preview_step080">
+            </details>
+    </details>
+        <details open>
+          <summary>
+            <h5>Mobile</h5>
           </summary>
             <details open>
                   <summary>
