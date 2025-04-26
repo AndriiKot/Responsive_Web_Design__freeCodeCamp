@@ -68,19 +68,22 @@
                   <summary>
                     <h5>header</h5>
                   </summary>
-                            <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step080.png" alt="preview_step080">
+                    <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/final-project/images/previews/preview__final-project/mobile-preview/mobile-preview__header.png"
+                    alt="mobile-preview__header">
             </details>
             <details open>
                   <summary>
                     <h5>main</h5>
                   </summary>
-                            <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step080.png" alt="preview_step080">
+                    <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/final-project/images/previews/preview__final-project/mobile-preview/mobile-preview__main.png"
+                    alt="mobile-preview__main">
             </details>
             <details open>
                   <summary>
                     <h5>footer</h5>
                   </summary>
-                            <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step080.png" alt="preview_step080">
+                    <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/final-project/images/previews/preview__final-project/mobile-preview/mobile-preview__footer.png"
+                    alt="mobile-preview__footer">
             </details>
     </details>
 </details>
