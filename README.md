@@ -520,4 +520,3 @@ hr {
 
 [back to top](#top)
 
-</details>
