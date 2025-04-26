@@ -18,7 +18,7 @@
 
 <details open>
   <summary>
-   <h3>PREVIEW</h3>
+   <h3>Preview</h3>
   </summary>
     <details open>
           <summary>
