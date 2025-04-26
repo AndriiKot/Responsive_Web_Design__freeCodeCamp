@@ -55,7 +55,6 @@
                     <h6>footer-1</h6>
                       <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/final-project/images/previews/preview__final-project/desktop-preview/desktop-preview__footer-1.png"
                       alt="desktop-preview__footer-1">
-
             </details>
     </details>
         <details open>
