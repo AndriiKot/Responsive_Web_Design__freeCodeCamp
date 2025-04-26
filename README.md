@@ -18,15 +18,15 @@
 
 <details open>
   <summary>
-   <h4>PREVIEW</h4>
+   <h3>PREVIEW</h3>
   </summary>
     <details open>
           <summary>
-            <h5>Desktop</h5>
+            <h4>Desktop</h4>
           </summary>
             <details open>
                   <summary>
-                    <h6>header</h6>
+                    <h5>header</h5>
                   </summary>
                     <h6>header-1</h6>
                    <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/final-project/images/previews/preview__final-project/desktop-preview/desktop-preview__header-1.png">
@@ -42,30 +42,30 @@
             </details>
             <details open>
                   <summary>
-                    <h6>footer</h6>
+                    <h5>footer</h5>
                   </summary>
                             <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step080.png" alt="preview_step080">
             </details>
     </details>
         <details open>
           <summary>
-            <h5>Mobile</h5>
+            <h4>Mobile</h4>
           </summary>
             <details open>
                   <summary>
-                    <h6>header</h6>
+                    <h5>header</h5>
                   </summary>
                             <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step080.png" alt="preview_step080">
             </details>
             <details open>
                   <summary>
-                    <h6>main</h6>
+                    <h5>main</h5>
                   </summary>
                             <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step080.png" alt="preview_step080">
             </details>
             <details open>
                   <summary>
-                    <h6>footer</h6>
+                    <h5>footer</h5>
                   </summary>
                             <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step080.png" alt="preview_step080">
             </details>
