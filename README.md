@@ -28,7 +28,9 @@
                   <summary>
                     <h6>header</h6>
                   </summary>
+                    <h6>header-1</h6>
                    <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/final-project/images/previews/preview__final-project/desktop-preview/desktop-preview__header-1.png">
+                  <h6>header-2</h6>
                    <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/final-project/images/previews/preview__final-project/desktop-preview/desktop-preview__header-2.png"
                    alt="desktop-preview__header-2">
             </details>
