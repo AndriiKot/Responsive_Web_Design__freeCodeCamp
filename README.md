@@ -1,6 +1,6 @@
 ﻿<a id=top></a>
 
-# Responsive Web Design
+<center># Responsive Web Design</center>
 
 ## Courses
 
