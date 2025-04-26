@@ -52,6 +52,12 @@
                     <h6>footer-1</h6>
                       <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/final-project/images/previews/preview__final-project/desktop-preview/desktop-preview__footer-1.png"
                       alt="desktop-preview__footer-1">
+                    <h6>footer-2</h6>
+                      <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/final-project/images/previews/preview__final-project/desktop-preview/desktop-preview__footer-2.png"
+                      alt="desktop-preview__footer-2">
+                    <h6>footer-3</h6>
+                      <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/final-project/images/previews/preview__final-project/desktop-preview/desktop-preview__footer-3.png"
+                      alt="desktop-preview__footer-3">
             </details>
     </details>
         <details open>
