@@ -17,9 +17,77 @@
 </table>
 </details>
 
-<h4>preview</h4>
-    <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/main/images/previews/preview_step080.png" alt="preview_step080">
-  
+<details open>
+  <summary>
+   <h3>Preview</h3>
+  </summary>
+    <details open>
+          <summary>
+            <h4>Desktop</h4>
+          </summary>
+            <details open>
+                  <summary>
+                    <h5>header</h5>
+                  </summary>
+                    <h6>header-1</h6>
+                   <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/final-project/images/previews/preview__final-project/desktop-preview/desktop-preview__header-1.png">
+                  <h6>header-2</h6>
+                   <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/final-project/images/previews/preview__final-project/desktop-preview/desktop-preview__header-2.png"
+                   alt="desktop-preview__header-2">
+            </details>
+              <details open>
+                  <summary>
+                    <h5>main</h5>
+                  </summary>
+                    <h6>main-1</h6>
+                      <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/final-project/images/previews/preview__final-project/desktop-preview/desktop-preview__main-1.png"
+                      alt="desktop-preview__main-1">
+                    <h6>main-2</h6>
+                      <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/final-project/images/previews/preview__final-project/desktop-preview/desktop-preview__main-2.png"
+                      alt="desktop-preview__main-2">
+            </details>
+            <details open>
+                  <summary>
+                    <h5>footer</h5>
+                  </summary>
+                    <h6>footer-1</h6>
+                      <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/final-project/images/previews/preview__final-project/desktop-preview/desktop-preview__footer-1.png"
+                      alt="desktop-preview__footer-1">
+                    <h6>footer-2</h6>
+                      <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/final-project/images/previews/preview__final-project/desktop-preview/desktop-preview__footer-2.png"
+                      alt="desktop-preview__footer-2">
+                    <h6>footer-3</h6>
+                      <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/final-project/images/previews/preview__final-project/desktop-preview/desktop-preview__footer-3.png"
+                      alt="desktop-preview__footer-3">
+            </details>
+    </details>
+        <details open>
+          <summary>
+            <h4>Mobile</h4>
+          </summary>
+            <details open>
+                  <summary>
+                    <h5>header</h5>
+                  </summary>
+                    <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/final-project/images/previews/preview__final-project/mobile-preview/mobile-preview__header.png"
+                    alt="mobile-preview__header">
+            </details>
+            <details open>
+                  <summary>
+                    <h5>main</h5>
+                  </summary>
+                    <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/final-project/images/previews/preview__final-project/mobile-preview/mobile-preview__main.png"
+                    alt="mobile-preview__main">
+            </details>
+            <details open>
+                  <summary>
+                    <h5>footer</h5>
+                  </summary>
+                    <img src="https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp/blob/final-project/images/previews/preview__final-project/mobile-preview/mobile-preview__footer.png"
+                    alt="mobile-preview__footer">
+            </details>
+    </details>
+</details>
 
 [back to top](#top)
 
