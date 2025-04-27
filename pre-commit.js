@@ -5,10 +5,16 @@ const { execSync } = require("child_process");
 
 
 
-const test = execSync("git diff --name-only --diff-filter=d", { encoding: "utf-8" })
+const test1 = execSync("git diff --name-only ", { encoding: "utf-8" })
+const test2 = execSync("git diff --cached --name-only", { encoding: "utf-8" })
 
-console.log(test);
-console.log("hi");
+console.log(`Test1: 'git diff --name-only': ${test1}`);
+console.log(`Test2: 'git diff --cached --name-only': ${test2}`);
+
+
+execSync("git restore package.json package2.json", { encoding: "utf-8" });
+
+
 
 
 /*
