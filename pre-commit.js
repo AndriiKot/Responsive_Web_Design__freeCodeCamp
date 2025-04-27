@@ -23,15 +23,21 @@ arrFolders.forEach((el,i, arr) => {
   }
 })
 
-//console.log(undoChanges);
+console.log(undoChanges);
 undoChanges.length = 0
-//console.log(undoChanges);
+console.log(undoChanges);
+
+const statuses = [
+ '??', 'A',
+]
 
 const status = execSync("git status --short", { encoding: "utf-8" });
 
 console.log(status.split('\n'));
 
-// execSync(`git clean -f ${undoChanges.join(' ')}`)
+// execSync(`git clean -f ${undoChanges.join(' ')}`)   // if you '??'
+// execSync('git restore ${}`)                         // if you 'AD', 'AM', 'M', 'D'
+// execSync(`git restore --staged ${}`)                // if you 'A'
 
 
 
