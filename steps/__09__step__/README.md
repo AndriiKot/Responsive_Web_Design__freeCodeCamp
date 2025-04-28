@@ -17,6 +17,23 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  9</h3>
+
+<section>
+<p>All <code>img</code> elements should have an <code>alt</code> attribute. The <code>alt</code> attribute's text is used for screen readers to improve accessibility and is displayed if the image fails to load.</p>
+<p>Here is an example of an <code>img</code> element with an <code>alt</code> attribute:</p>
+<details class="code-details" open=""><summary class="code-details-summary">Example Code</summary><pre class="language-html" tabindex="0" role="region" aria-label="HTML code example"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>img</span> <span class="token attr-name">src</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>cat.jpg<span class="token punctuation">"</span></span> <span class="token attr-name">alt</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>A cat<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span>
+</code></pre></details>
+<p>Inside the <code>img</code> element, add an <code>alt</code> attribute with this text:</p>
+<p><code>A cute orange cat lying on its back</code></p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp/blob/main/images/previews/preview_step09.png" alt="preview_step09">
   

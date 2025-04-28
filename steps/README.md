@@ -10,7 +10,7 @@
        
 <table>
   <thead>
-    <tr><th><a href="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp//tree/main/steps/__00__title_" target="_self">Step 0</a></th><th><a href="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp//tree/main/steps/__01__step__" target="_self">Step 1</a></th><th><a href="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp//tree/main/steps/__02__step__" target="_self">Step 2</a></th><th><a href="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp//tree/main/steps/__03__step__" target="_self">Step 3</a></th><th><a href="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp//tree/main/steps/__04__step__" target="_self">Step 4</a></th><tr><th><a href="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp//tree/main/steps/__05__step__" target="_self">Step 5</a></th><th><a href="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp//tree/main/steps/__06__step__" target="_self">Step 6</a></th><th><a href="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp//tree/main/steps/__07__step__" target="_self">Step 7</a></th><th><a href="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp//tree/main/steps/__08__step__" target="_self">Step 8</a></th></tr>
+    <tr><th><a href="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp//tree/main/steps/__00__title_" target="_self">Step 0</a></th><th><a href="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp//tree/main/steps/__01__step__" target="_self">Step 1</a></th><th><a href="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp//tree/main/steps/__02__step__" target="_self">Step 2</a></th><th><a href="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp//tree/main/steps/__03__step__" target="_self">Step 3</a></th><th><a href="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp//tree/main/steps/__04__step__" target="_self">Step 4</a></th><tr><th><a href="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp//tree/main/steps/__05__step__" target="_self">Step 5</a></th><th><a href="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp//tree/main/steps/__06__step__" target="_self">Step 6</a></th><th><a href="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp//tree/main/steps/__07__step__" target="_self">Step 7</a></th><th><a href="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp//tree/main/steps/__08__step__" target="_self">Step 8</a></th><th><a href="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp//tree/main/steps/__09__step__" target="_self">Step 9</a></th></tr>
   </thead>
   <tbody>
   </tbody>
@@ -18,7 +18,7 @@
 </details>
 
 <h4>preview</h4>
-    <img src="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp/blob/main/images/previews/preview_step08.png" alt="preview_step08">
+    <img src="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp/blob/main/images/previews/preview_step09.png" alt="preview_step09">
   
 <table>
   <thead>
@@ -54,7 +54,7 @@
       <h2>Cat Photos</h2>
       <!-- TODO: Add link to cat photos -->
       <p>Everyone loves cute cats online!</p>
-      <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg">
+      <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="A cute orange cat lying on its back">
     </main>
   </body>
 </html>
