@@ -10,7 +10,7 @@
        
 <table>
   <thead>
-    <tr><th><a href="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp//tree/main/steps/__00__title_" target="_self">Step 0</a></th><th><a href="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp//tree/main/steps/__01__step__" target="_self">Step 1</a></th><th><a href="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp//tree/main/steps/__02__step__" target="_self">Step 2</a></th><th><a href="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp//tree/main/steps/__03__step__" target="_self">Step 3</a></th><th><a href="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp//tree/main/steps/__04__step__" target="_self">Step 4</a></th></tr>
+    <tr><th><a href="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp//tree/main/steps/__00__title_" target="_self">Step 0</a></th><th><a href="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp//tree/main/steps/__01__step__" target="_self">Step 1</a></th><th><a href="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp//tree/main/steps/__02__step__" target="_self">Step 2</a></th><th><a href="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp//tree/main/steps/__03__step__" target="_self">Step 3</a></th><th><a href="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp//tree/main/steps/__04__step__" target="_self">Step 4</a></th><tr><th><a href="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp//tree/main/steps/__05__step__" target="_self">Step 5</a></th>
   </thead>
   <tbody>
   </tbody>
@@ -18,7 +18,7 @@
 </details>
 
 <h4>preview</h4>
-    <img src="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp/blob/main/images/previews/preview_step04.png" alt="preview_step04">
+    <img src="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp/blob/main/images/previews/preview_step05.png" alt="preview_step05">
   
 <table>
   <thead>
@@ -49,13 +49,14 @@
     <title>Cat Photo App</title>
   </head>
   <body>
-    <h1>CatPhotoApp</h1>
-    <h2>Cat Photos</h2>
-    <!-- TODO: Add link to cat photos -->
-    <p>Everyone loves cute cats online!</p>
+    <main>
+      <h1>CatPhotoApp</h1>
+      <h2>Cat Photos</h2>
+      <!-- TODO: Add link to cat photos -->
+      <p>Everyone loves cute cats online!</p>
+    </main>
   </body>
 </html>
-
 
 ```
 

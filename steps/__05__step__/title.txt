@@ -1,0 +1,25 @@
+Step  5
+
+HTML5 has some elements that 
+identify different content areas. These elements make 
+your HTML easier to read and help 
+with Search Engine Optimization (SEO) and accessibility.
+The 
+main element is used to represent the 
+main content of the body of an 
+HTML document. Content inside the main element 
+should be unique to the document and 
+should not be repeated in other parts 
+of the document.
+Example Code&lt;main&gt;
+  &lt;h1&gt;Most important 
+content of the document&lt;/h1&gt;
+  &lt;p&gt;Some more 
+important content...&lt;/p&gt;
+&lt;/main&gt;
+
+Identify the main section of this 
+page by adding a &lt;main&gt; opening tag 
+before the h1 element, and a &lt;/main&gt; 
+closing tag after the p element.
+ 
