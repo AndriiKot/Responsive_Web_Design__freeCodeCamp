@@ -17,6 +17,23 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  4</h3>
+
+<section>
+<p>Commenting allows you to leave messages without affecting the browser display. It also allows you to make code inactive. A comment in HTML starts with <code>&lt;!--</code>, contains any number of lines of text, and ends with <code>--&gt;</code>.</p>
+<p>Here is an example of a comment with the <code>TODO: Remove h1</code>:</p>
+<details class="code-details" open=""><summary class="code-details-summary">Example Code</summary><pre class="language-html" tabindex="0" role="region" aria-label="HTML code example"><code class="language-html"><span class="token comment">&lt;!-- TODO: Remove h1 --&gt;</span>
+</code></pre></details>
+<p>Add a comment above the <code>p</code> element with this text:</p>
+<p><code>TODO: Add link to cat photos</code></p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp/blob/main/images/previews/preview_step04.png" alt="preview_step04">
   
