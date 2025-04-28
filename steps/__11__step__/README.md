@@ -17,6 +17,22 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  11</h3>
+
+<section>
+<p>A link's text must be placed between the opening and closing tags of an anchor (<code>a</code>) element.</p>
+<p>Here is an example of a link with the text <code>click here to go to freeCodeCamp.org</code>:</p>
+<details class="code-details" open=""><summary class="code-details-summary">Example Code</summary><pre class="language-html" tabindex="0" role="region" aria-label="HTML code example"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>a</span> <span class="token attr-name">href</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>https://www.freecodecamp.org<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span>click here to go to freeCodeCamp.org<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>a</span><span class="token punctuation">&gt;</span></span>
+</code></pre></details>
+<p>Add the anchor text <code>cat photos</code> to the anchor element. This will become the link's text.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp/blob/main/images/previews/preview_step11.png" alt="preview_step11">
   
