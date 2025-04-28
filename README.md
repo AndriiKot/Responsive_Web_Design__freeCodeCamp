@@ -10,7 +10,7 @@
        
 <table>
   <thead>
-    <tr><th><a href="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp//tree/main/steps/__00__title_" target="_self">Step 0</a></th><th><a href="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp//tree/main/steps/__01__step__" target="_self">Step 1</a></th></tr>
+    <tr><th><a href="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp//tree/main/steps/__00__title_" target="_self">Step 0</a></th><th><a href="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp//tree/main/steps/__01__step__" target="_self">Step 1</a></th><th><a href="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp//tree/main/steps/__02__step__" target="_self">Step 2</a></th></tr>
   </thead>
   <tbody>
   </tbody>
@@ -18,12 +18,8 @@
 </details>
 
 <h4>preview</h4>
-    <img src="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp/blob/main/images/previews/preview_step01.png" alt="preview_step01">
+    <img src="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp/blob/main/images/previews/preview_step02.png" alt="preview_step02">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th>
@@ -54,8 +50,10 @@
   </head>
   <body>
     <h1>CatPhotoApp</h1>
+    <h2>Cat Photos</h2>
   </body>
 </html>
+
 
 ```
 
