@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  3</h3>
+
+<section>
+<p>The <code>p</code> element is used to create a paragraph of text on websites. Create a <code>p</code> element below your <code>h2</code> element and give it the following text:</p>
+<p><code>Everyone loves cute cats online!</code></p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp/blob/main/images/previews/preview_step03.png" alt="preview_step03">
   

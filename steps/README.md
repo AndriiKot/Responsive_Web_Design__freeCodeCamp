@@ -10,7 +10,7 @@
        
 <table>
   <thead>
-    <tr><th><a href="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp//tree/main/steps/__00__title_" target="_self">Step 0</a></th><th><a href="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp//tree/main/steps/__01__step__" target="_self">Step 1</a></th><th><a href="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp//tree/main/steps/__02__step__" target="_self">Step 2</a></th></tr>
+    <tr><th><a href="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp//tree/main/steps/__00__title_" target="_self">Step 0</a></th><th><a href="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp//tree/main/steps/__01__step__" target="_self">Step 1</a></th><th><a href="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp//tree/main/steps/__02__step__" target="_self">Step 2</a></th><th><a href="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp//tree/main/steps/__03__step__" target="_self">Step 3</a></th></tr>
   </thead>
   <tbody>
   </tbody>
@@ -18,7 +18,7 @@
 </details>
 
 <h4>preview</h4>
-    <img src="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp/blob/main/images/previews/preview_step02.png" alt="preview_step02">
+    <img src="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp/blob/main/images/previews/preview_step03.png" alt="preview_step03">
   
 <table>
   <thead>
@@ -51,6 +51,7 @@
   <body>
     <h1>CatPhotoApp</h1>
     <h2>Cat Photos</h2>
+    <p>Everyone loves cute cats online!</p>
   </body>
 </html>
 
