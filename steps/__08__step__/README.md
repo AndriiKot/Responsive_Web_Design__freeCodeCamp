@@ -17,6 +17,23 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  8</h3>
+
+<section>
+<p>HTML <dfn>attributes</dfn> are special words used inside the opening tag of an element to control the element's behavior. The <code>src</code> attribute in an <code>img</code> element specifies the image's URL (where the image is located).</p>
+<p>Here is an example of an <code>img</code> element with a <code>src</code> attribute pointing to the freeCodeCamp logo:</p>
+<details class="code-details" open=""><summary class="code-details-summary">Example Code</summary><pre class="language-html" tabindex="0" role="region" aria-label="HTML code example"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>img</span> <span class="token attr-name">src</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>https://cdn.freecodecamp.org/platform/universal/fcc_secondary.svg<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span>
+</code></pre></details>
+<p>Inside the existing <code>img</code> element, add a <code>src</code> attribute with this URL:</p>
+<p><code>https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg</code></p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp/blob/main/images/previews/preview_step08.png" alt="preview_step08">
   
