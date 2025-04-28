@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  14</h3>
+
+<section>
+<p>Turn the existing text <code>cute cats</code> into an anchor element that links to:</p>
+<p><code>https://cdn.freecodecamp.org/curriculum/cat-photo-app/running-cats.jpg</code></p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp/blob/main/images/previews/preview_step14.png" alt="preview_step14">
   
