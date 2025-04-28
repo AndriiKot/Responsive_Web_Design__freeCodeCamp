@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  7</h3>
+
+<section>
+<p>You can add images to your website by using the <code>img</code> element. <code>img</code> elements have an opening tag without a closing tag. An element without a closing tag is known as a <dfn>void element</dfn>.</p>
+<p>Add an <code>img</code> element below the <code>p</code> element. At this point, no image will show up in the browser.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp/blob/main/images/previews/preview_step07.png" alt="preview_step07">
   
