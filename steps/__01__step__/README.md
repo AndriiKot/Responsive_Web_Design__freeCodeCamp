@@ -17,6 +17,20 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  1</h3>
+
+<section>
+<p>HTML elements have opening tags like <code>&lt;h1&gt;</code> and closing tags like <code>&lt;/h1&gt;</code>. The text an element will display goes between its opening and closing tags.</p>
+<p>Change the text of the <code>h1</code> element below from <code>Hello World</code> to <code>CatPhotoApp</code> and watch the change in the browser preview.</p>
+<p>When you are done, press the "Check Your Code" button to see if it's correct.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp/blob/main/images/previews/preview_step01.png" alt="preview_step01">
   
