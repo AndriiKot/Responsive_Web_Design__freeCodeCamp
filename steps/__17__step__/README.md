@@ -17,6 +17,24 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  17</h3>
+
+<section>
+<p>In previous steps you used an anchor element to turn text into a link. Other types of content can also be turned into a link by wrapping it in anchor tags.</p>
+<p>Here is an example of turning an image into a link:</p>
+<details class="code-details" open=""><summary class="code-details-summary">Example Code</summary><pre class="language-html" tabindex="0" role="region" aria-label="HTML code example"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>a</span> <span class="token attr-name">href</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>example-link<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span>
+  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>img</span> <span class="token attr-name">src</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>image-link.jpg<span class="token punctuation">"</span></span> <span class="token attr-name">alt</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>A photo of a cat.<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>a</span><span class="token punctuation">&gt;</span></span>
+</code></pre></details>
+<p>Turn the image into a link by surrounding it with necessary element tags. Use <code>https://freecatphotoapp.com</code> as the anchor's <code>href</code> attribute value.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp/blob/main/images/previews/preview_step17.png" alt="preview_step17">
   
