@@ -17,6 +17,23 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  15</h3>
+
+<section>
+<p>To open links in a new tab, you can use the <code>target</code> attribute on the anchor (<code>a</code>) element.</p>
+<p>The <code>target</code> attribute specifies where to open the linked document. <code>target="_blank"</code> opens the linked document in a new tab or window.</p>
+<p>Here is the basic syntax for an <code>a</code> element with a <code>target</code> attribute:</p>
+<details class="code-details" open=""><summary class="code-details-summary">Example Code</summary><pre class="language-html" tabindex="0" role="region" aria-label="HTML code example"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>a</span> <span class="token attr-name">href</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>https://www.freecodecamp.org<span class="token punctuation">"</span></span> <span class="token attr-name">target</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>_blank<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span>freeCodeCamp<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>a</span><span class="token punctuation">&gt;</span></span>
+</code></pre></details>
+<p>Add a <code>target</code> attribute with the value <code>_blank</code> to the anchor (<code>a</code>) element's opening tag, so that the link opens in a new tab.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp/blob/main/images/previews/preview_step15.png" alt="preview_step15">
   
