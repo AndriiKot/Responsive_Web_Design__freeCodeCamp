@@ -17,6 +17,18 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  31</h3>
+
+<section>
+<p>Inside the <code>figure</code> element you just added, nest an <code>img</code> element with a <code>src</code> attribute set to <code>https://cdn.freecodecamp.org/curriculum/cat-photo-app/cats.jpg</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp/blob/main/images/previews/preview_step31.png" alt="preview_step31">
   
