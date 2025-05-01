@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  27</h3>
+
+<section>
+<p>To place emphasis on a specific word or phrase, you can use the <code>em</code> element.</p>
+<p>Emphasize the word <code>love</code> in the <code>figcaption</code> element by wrapping it in an emphasis <code>em</code> element.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp/blob/main/images/previews/preview_step27.png" alt="preview_step27">
   
