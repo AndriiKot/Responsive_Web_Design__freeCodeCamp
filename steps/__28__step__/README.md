@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  28</h3>
+
+<section>
+<p>After the <code>figure</code> element, add another <code>h3</code> element with the text:</p>
+<p><code>Top 3 things cats hate:</code></p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp/blob/main/images/previews/preview_step28.png" alt="preview_step28">
   
