@@ -17,6 +17,18 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  20</h3>
+
+<section>
+<p>Within the second <code>section</code> element, add a new <code>h2</code> element with the text <code>Cat Lists</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp/blob/main/images/previews/preview_step20.png" alt="preview_step20">
   
