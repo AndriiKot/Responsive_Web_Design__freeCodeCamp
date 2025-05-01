@@ -17,6 +17,20 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  21</h3>
+
+<section>
+<p>When you add a lower rank heading element to the page, it's implied that you're starting a new subsection.</p>
+<p>After the last <code>h2</code> element of the second <code>section</code> element, add an <code>h3</code> element with this text:</p>
+<p><code>Things cats love:</code></p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp/blob/main/images/previews/preview_step21.png" alt="preview_step21">
   
