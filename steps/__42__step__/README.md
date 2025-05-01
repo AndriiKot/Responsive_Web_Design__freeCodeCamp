@@ -17,6 +17,22 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  42</h3>
+
+<section>
+<p>Placeholder text is used to give people a hint about what kind of information to enter into an input.</p>
+<p>Here is an example of an <code>input</code> element with a placeholder set to <code>Ex. Jane Doe</code>:</p>
+<details class="code-details" open=""><summary class="code-details-summary">Example Code</summary><pre class="language-html" tabindex="0" role="region" aria-label="HTML code example"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>input</span> <span class="token attr-name">type</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>text<span class="token punctuation">"</span></span> <span class="token attr-name">placeholder</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>Ex. Jane Doe<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span>
+</code></pre></details>
+<p>Add the placeholder text <code>cat photo URL</code> to your <code>input</code> element.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp/blob/main/images/previews/preview_step42.png" alt="preview_step42">
   
