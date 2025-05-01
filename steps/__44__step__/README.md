@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  44</h3>
+
+<section>
+<p>The <code>button</code> element is used to create a clickable button.</p>
+<p>Add a <code>button</code> element with the text <code>Submit</code> below the <code>input</code> element. The default behavior of clicking a form button without any attributes submits the form to the location specified in the form's <code>action</code> attribute.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp/blob/main/images/previews/preview_step44.png" alt="preview_step44">
   
