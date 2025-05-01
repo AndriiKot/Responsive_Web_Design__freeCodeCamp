@@ -17,6 +17,24 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  46</h3>
+
+<section>
+<p>You can use radio buttons for questions where you want only one answer out of multiple options.</p>
+<p>Here is an example of a radio button with the text set as <code>cat</code>:</p>
+<details class="code-details" open=""><summary class="code-details-summary">Example Code</summary><pre class="language-html" tabindex="0" role="region" aria-label="HTML code example"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>input</span> <span class="token attr-name">type</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>radio<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span> cat
+</code></pre></details>
+<p>Remember that an <code>input</code> element is a void element.</p>
+<p>Before the text input, add a radio button with the text set as:</p>
+<p><code>Indoor</code></p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp/blob/main/images/previews/preview_step46.png" alt="preview_step46">
   

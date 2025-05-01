@@ -1,0 +1,17 @@
+Step  46
+
+You can use radio buttons 
+for questions where you want only one 
+answer out of multiple options.
+Here is an 
+example of a radio button with the 
+text set as cat:
+Example Code&lt;input type="radio"&gt; cat
+
+Remember 
+that an input element is a void 
+element.
+Before the text input, add a radio 
+button with the text set as:
+Indoor
+ 
