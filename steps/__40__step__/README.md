@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  40</h3>
+
+<section>
+<p>There are many kinds of inputs you can create using the <code>type</code> attribute. You can easily create a password field, reset button, or a control to let users select a file from their computer.</p>
+<p>Create a text field to get text input from a user by adding the <code>type</code> attribute with the value <code>text</code> to the <code>input</code> element.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp/blob/main/images/previews/preview_step40.png" alt="preview_step40">
   
