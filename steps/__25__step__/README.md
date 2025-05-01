@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  25</h3>
+
+<section>
+<p>The <code>figure</code> element represents self-contained content and will allow you to associate an image with a caption.</p>
+<p>Nest the image you just added within a <code>figure</code> element.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp/blob/main/images/previews/preview_step25.png" alt="preview_step25">
   
