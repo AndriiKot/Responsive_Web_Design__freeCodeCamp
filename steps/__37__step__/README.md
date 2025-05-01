@@ -17,6 +17,20 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  37</h3>
+
+<section>
+<p>Now you will add a web form to collect information from users.</p>
+<p>The <code>form</code> element is used to get information from a user like their name, email, and other details.</p>
+<p>After the <code>Cat Form</code> heading, add a <code>form</code> element.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp/blob/main/images/previews/preview_step37.png" alt="preview_step37">
   
