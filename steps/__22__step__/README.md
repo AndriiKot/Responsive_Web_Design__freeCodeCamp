@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  22</h3>
+
+<section>
+<p>To create an unordered list of items, you can use the <code>ul</code> element.</p>
+<p>After the <code>h3</code> element with the <code>Things cats love:</code> text, add an unordered list (<code>ul</code>) element. Note that nothing will be displayed at this point.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp/blob/main/images/previews/preview_step22.png" alt="preview_step22">
   
