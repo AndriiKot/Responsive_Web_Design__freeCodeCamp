@@ -17,6 +17,23 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  47</h3>
+
+<section>
+<p><code>label</code> elements are used to help associate the text for an <code>input</code> element with the <code>input</code> element itself (especially for assistive technologies like screen readers).</p>
+<p>Here is an example of a <code>label</code> element with a <code>radio</code> button:</p>
+<details class="code-details" open=""><summary class="code-details-summary">Example Code</summary><pre class="language-html" tabindex="0" role="region" aria-label="HTML code example"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>label</span><span class="token punctuation">&gt;</span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>input</span> <span class="token attr-name">type</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>radio<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span> cat<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>label</span><span class="token punctuation">&gt;</span></span>
+</code></pre></details>
+<p>In the example, clicking on the word <code>"cat"</code> will also select the <code>radio</code> button.</p>
+<p>Nest your <code>radio</code> button inside a <code>label</code> element.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp/blob/main/images/previews/preview_step47.png" alt="preview_step47">
   
