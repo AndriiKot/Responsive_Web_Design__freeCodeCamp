@@ -17,6 +17,23 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  38</h3>
+
+<section>
+<p>The <code>action</code> attribute indicates where form data should be sent.</p>
+<p>Here is an example of a <code>form</code> element with an <code>action</code> attribute:</p>
+<details class="code-details" open=""><summary class="code-details-summary">Example Code</summary><pre class="language-html" tabindex="0" role="region" aria-label="HTML code example"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>form</span> <span class="token attr-name">action</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>/submit-url<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>form</span><span class="token punctuation">&gt;</span></span>
+</code></pre></details>
+<p>In the example, <code>action="/submit-url"</code> tells the browser that the form data should be sent to the path <code>/submit-url</code>.</p>
+<p>Add an <code>action</code> attribute with the value <code>https://freecatphotoapp.com/submit-cat-photo</code> to the <code>form</code> element.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp/blob/main/images/previews/preview_step38.png" alt="preview_step38">
   
