@@ -17,6 +17,22 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  29</h3>
+
+<section>
+<p>The code for an ordered list (<code>ol</code>) is similar to an unordered list, but list items in an ordered list are numbered when displayed.</p>
+<p>Below the <code>h3</code> element, add an ordered list with these three list items:</p>
+<p><code>flea treatment</code>
+<code>thunder</code>
+<code>other cats</code></p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp/blob/main/images/previews/preview_step29.png" alt="preview_step29">
   
