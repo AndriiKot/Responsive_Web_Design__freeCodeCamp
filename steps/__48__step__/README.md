@@ -17,6 +17,22 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  48</h3>
+
+<section>
+<p>The <code>id</code> attribute is used to identify specific HTML elements. Each <code>id</code> attribute's value must be unique from all other <code>id</code> values for the entire page.</p>
+<p>Here is an example of an <code>input</code> element with an <code>id</code> attribute:</p>
+<details class="code-details" open=""><summary class="code-details-summary">Example Code</summary><pre class="language-html" tabindex="0" role="region" aria-label="HTML code example"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>input</span> <span class="token attr-name">id</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>email<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span>
+</code></pre></details>
+<p>Add an <code>id</code> attribute with the value <code>indoor</code> to the radio button. When elements have multiple attributes, the order of the attributes doesn't matter.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp/blob/main/images/previews/preview_step48.png" alt="preview_step48">
   
