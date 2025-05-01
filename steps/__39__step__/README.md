@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  39</h3>
+
+<section>
+<p>The <code>input</code> element allows you several ways to collect data from a web form. Like <code>img</code> elements, <code>input</code> elements are a <dfn>void element</dfn> and do not need closing tags.</p>
+<p>Nest an <code>input</code> element in the <code>form</code> element.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp/blob/main/images/previews/preview_step39.png" alt="preview_step39">
   
