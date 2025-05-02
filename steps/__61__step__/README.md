@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  61</h3>
+
+<section>
+<p>Add a final checkbox after the previous one with an <code>id</code> attribute value of <code>energetic</code>. The <code>name</code> attribute should be the same as the previous checkbox.</p>
+<p>Also add a <code>label</code> element to the right of the new checkbox with text <code>Energetic</code>. Make sure to associate the <code>label</code> element with the new checkbox.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp/blob/main/images/previews/preview_step61.png" alt="preview_step61">
   
