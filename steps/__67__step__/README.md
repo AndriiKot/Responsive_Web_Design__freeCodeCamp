@@ -17,6 +17,20 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  67</h3>
+
+<section>
+<p>Notice that everything you've added to the page so far is inside the <code>body</code> element. All page content elements that should be rendered to the page go inside the <code>body</code> element. However, other important information goes inside the <code>head</code> element.</p>
+<p>The <code>head</code> element is used to contain metadata about the document, such as its title, links to stylesheets, and scripts. Metadata is information about the page that isn't displayed directly on the page.</p>
+<p>Add a <code>head</code> element above the <code>body</code> element.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp/blob/main/images/previews/preview_step67.png" alt="preview_step67">
   
