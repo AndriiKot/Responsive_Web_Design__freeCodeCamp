@@ -8,5 +8,7 @@
 
 ## Courses
 
-#### [Learn CSS Grid by Building a Magazine](https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp#)
+#### [Learn HTML by Building a Cat Photo App](https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp)
+
+#### [Learn CSS Grid by Building a Magazine](https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp)
 
