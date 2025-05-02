@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  60</h3>
+
+<section>
+<p>Add another checkbox after the one you just added. The <code>id</code> attribute value should be <code>lazy</code> and the <code>name</code> attribute value should be the same as the last checkbox.</p>
+<p>Also add a <code>label</code> element to the right of the new checkbox with the text <code>Lazy</code>. Make sure to associate the <code>label</code> element with the new checkbox using the <code>for</code> attribute.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp/blob/main/images/previews/preview_step60.png" alt="preview_step60">
   
