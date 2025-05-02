@@ -17,6 +17,18 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  55</h3>
+
+<section>
+<p>Add a <code>legend</code> element with the text <code>What's your cat's personality?</code> inside the second <code>fieldset</code> element.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp/blob/main/images/previews/preview_step5q.png" alt="preview_step5q">
   
