@@ -19,7 +19,7 @@
 
 <h4>preview</h4>
   <h6>header</h6>
-    <img src="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp/blob/main/images/previews/preview__final-project/final_project__main.png" alt="final project main">
+    <img src="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp/blob/main/images/previews/preview__final-project/final_project__header.png" alt="final project header">
   <h6>main content</h6>
     <img src="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp/blob/main/images/previews/preview__final-project/final_project__main.png" alt="final project main content">
   <h6>footer</h6>
