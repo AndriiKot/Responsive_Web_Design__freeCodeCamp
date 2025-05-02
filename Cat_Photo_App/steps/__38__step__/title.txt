@@ -1,0 +1,16 @@
+Step  38
+
+The action attribute indicates where 
+form data should be sent.
+Here is an 
+example of a form element with an 
+action attribute:
+Example Code&lt;form action="/submit-url"&gt;&lt;/form&gt;
+
+In the example, action="/submit-url" 
+tells the browser that the form data 
+should be sent to the path /submit-url.
+Add 
+an action attribute with the value https://freecatphotoapp.com/submit-cat-photo 
+to the form element.
+ 

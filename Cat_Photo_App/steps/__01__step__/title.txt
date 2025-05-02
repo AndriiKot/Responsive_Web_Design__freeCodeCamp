@@ -1,0 +1,14 @@
+Step  1
+
+HTML elements have opening tags 
+like &lt;h1&gt; and closing tags like &lt;/h1&gt;. 
+The text an element will display goes 
+between its opening and closing tags.
+Change the 
+text of the h1 element below from 
+Hello World to CatPhotoApp and watch the 
+change in the browser preview.
+When you are 
+done, press the "Check Your Code" button 
+to see if it's correct.
+ 
