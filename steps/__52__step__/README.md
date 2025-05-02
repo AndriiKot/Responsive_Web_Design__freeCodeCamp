@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  52</h3>
+
+<section>
+<p>The <code>fieldset</code> element is used to group related inputs and labels together in a web form. <code>fieldset</code> elements are <dfn>block-level elements</dfn>, meaning that they appear on a new line.</p>
+<p>Nest the <code>Indoor</code> and <code>Outdoor</code> radio buttons within a <code>fieldset</code> element, and don't forget to indent the radio buttons.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp/blob/main/images/previews/preview_step5q.png" alt="preview_step5q">
   
