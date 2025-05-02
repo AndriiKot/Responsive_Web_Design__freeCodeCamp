@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  51</h3>
+
+<section>
+<p>If you select the <code>Indoor</code> radio button and submit the form, the form data for the button is based on its <code>name</code> and <code>value</code> attributes. Since your radio buttons do not have a <code>value</code> attribute, the form data will include <code>indoor-outdoor=on</code>, which is not useful when you have multiple buttons.</p>
+<p>Add a <code>value</code> attribute to both radio buttons. For convenience, set the button's <code>value</code> attribute to the same value as its <code>id</code> attribute.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp/blob/main/images/previews/preview_step5q.png" alt="preview_step5q">
   
