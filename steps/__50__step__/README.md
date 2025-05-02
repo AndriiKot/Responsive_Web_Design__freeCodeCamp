@@ -17,6 +17,23 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  50</h3>
+
+<section>
+<p>Notice that both radio buttons can be selected at the same time. To make it so selecting one radio button automatically deselects the other, both buttons must have a <code>name</code> attribute with the same value.</p>
+<p>Here is an example of two radio buttons with the same <code>name</code> attribute:</p>
+<details class="code-details" open=""><summary class="code-details-summary">Example Code</summary><pre class="language-html" tabindex="0" role="region" aria-label="HTML code example"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>input</span> <span class="token attr-name">type</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>radio<span class="token punctuation">"</span></span> <span class="token attr-name">name</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>meal<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span> Breakfast
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>input</span> <span class="token attr-name">type</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>radio<span class="token punctuation">"</span></span> <span class="token attr-name">name</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>meal<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span> Lunch
+</code></pre></details>
+<p>Add the <code>name</code> attribute with the value <code>indoor-outdoor</code> to both radio buttons.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp/blob/main/images/previews/preview_step50.png" alt="preview_step50">
   
