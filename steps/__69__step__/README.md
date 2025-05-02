@@ -17,6 +17,20 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  69</h3>
+
+<section>
+<p>Notice that the entire contents of the page are nested within an <code>html</code> element. The <code>html</code> element is the root element of an HTML page and wraps all content on the page.</p>
+<p>You can also specify the language of your page by adding the <code>lang</code> attribute to the <code>html</code> element.</p>
+<p>Add the <code>lang</code> attribute with the value <code>en</code> to the opening <code>html</code> tag to specify that the language of the page is English.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp/blob/main/images/previews/preview_step69.png" alt="preview_step69">
   
