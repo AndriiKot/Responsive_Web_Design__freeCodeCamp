@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  53</h3>
+
+<section>
+<p>The <code>legend</code> element acts as a caption for the content in the <code>fieldset</code> element. It gives users context about what they should enter into that part of the form.</p>
+<p>Add a <code>legend</code> element with the text <code>Is your cat an indoor or outdoor cat?</code> above both of the radio buttons.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp/blob/main/images/previews/preview_step5q.png" alt="preview_step5q">
   
