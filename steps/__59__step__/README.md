@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  59</h3>
+
+<section>
+<p>Add the <code>name</code> attribute with the value <code>personality</code> to the checkbox <code>input</code> element.</p>
+<p>While you won't notice this in the browser, doing this makes it easier for a server to process your web form, especially when there are multiple checkboxes.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp/blob/main/images/previews/preview_step5q.png" alt="preview_step5q">
   
