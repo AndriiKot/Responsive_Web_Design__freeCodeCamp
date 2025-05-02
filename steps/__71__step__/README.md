@@ -17,6 +17,23 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  71</h3>
+
+<section>
+<p>You can set browser behavior by adding <code>meta</code> elements in the <code>head</code>. Here's an example:</p>
+<details class="code-details" open=""><summary class="code-details-summary">Example Code</summary><pre class="language-html" tabindex="0" role="region" aria-label="HTML code example"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>meta</span> <span class="token attr-name">attribute</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>value<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span>
+</code></pre></details>
+<p>Inside the <code>head</code> element, nest a <code>meta</code> element with an attribute named <code>charset</code>. Set to the value to <code>utf-8</code> which tells the browser how to encode characters for the page.</p>
+<p>Note that the <code>meta</code> element is a void element.</p>
+<p>With that last change, you have completed the Cat Photo App project. Congratulations!</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp/blob/main/images/previews/preview_step71.png" alt="preview_step71">
   
