@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  62</h3>
+
+<section>
+<p>Like radio buttons, form data for selected checkboxes are <code>name</code> / <code>value</code> attribute pairs. While the <code>value</code> attribute is optional, it's best practice to include it with any checkboxes or radio buttons on the page.</p>
+<p>Add a <code>value</code> attribute to each checkbox. For convenience, set each checkbox's <code>value</code> attribute to the same value as its <code>id</code> attribute.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp/blob/main/images/previews/preview_step62.png" alt="preview_step62">
   
