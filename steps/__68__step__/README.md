@@ -17,6 +17,20 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  68</h3>
+
+<section>
+<p>The <code>title</code> element determines what browsers show in the title bar or tab for the page.</p>
+<p>Add a <code>title</code> element within the <code>head</code> element using the text below:</p>
+<p><code>CatPhotoApp</code></p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp/blob/main/images/previews/preview_step68.png" alt="preview_step68">
   
