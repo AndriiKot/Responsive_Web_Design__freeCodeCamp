@@ -17,6 +17,20 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  56</h3>
+
+<section>
+<p>Forms commonly use checkboxes for questions that may have more than one answer. The <code>input</code> element with a <code>type</code> attribute set to <code>checkbox</code> creates a checkbox.</p>
+<p>Under the <code>legend</code> element you just added, add an <code>input</code> with its <code>type</code> attribute set to <code>checkbox</code> and its text set to:</p>
+<p><code> Loving</code></p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp/blob/main/images/previews/preview_step5q.png" alt="preview_step5q">
   
