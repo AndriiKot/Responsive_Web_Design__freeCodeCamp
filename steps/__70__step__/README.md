@@ -17,6 +17,20 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  70</h3>
+
+<section>
+<p>All pages should begin with <code>&lt;!DOCTYPE html&gt;</code>. This special string is known as a <dfn>declaration</dfn> and ensures the browser tries to meet industry-wide specifications.</p>
+<p><code>&lt;!DOCTYPE html&gt;</code> tells browsers that the document is an HTML5 document which is the latest version of HTML.</p>
+<p>Add this declaration as the first line of the code.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp/blob/main/images/previews/preview_step70.png" alt="preview_step70">
   
