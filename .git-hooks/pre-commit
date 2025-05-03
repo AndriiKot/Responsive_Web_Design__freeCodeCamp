@@ -1,21 +1,33 @@
 #!/usr/bin/env node
 
-const path = require("path");
-const { execSync } = require("child_process");
+// const path = require("path");
+// const { execSync } = require("child_process");
 
+// // execSync(`git clean -f ${undoChanges.join(' ')}`)   // if you '??'
+// // execSync('git restore ${}`)                         // if you 'AD', 'AM', 'M', 'D'
+// // execSync(`git restore --staged ${}`)                // if you 'A'
 
-// execSync(`git clean -f ${undoChanges.join(' ')}`)   // if you '??'
-// execSync('git restore ${}`)                         // if you 'AD', 'AM', 'M', 'D'
-// execSync(`git restore --staged ${}`)                // if you 'A'
+// configCancelChangesFolders = [
+//   "Cat_Photo_App",
+//   "Cafe_Menu",
+//   "Set_of_Colored_Markers",
+//   "Registration_Form",
+//   "Rothko_Painting",
+//   "Photo_Gallery",
+//   "Nutrition_Label",
+//   "Quiz",
+//   "Balance_Sheet",
+//   "Cat_Painting",
+//   "Piano",
+//   "City_Skyline",
+//   "Magazine",
+//   "Penguin",
+//   "Ferris_Wheel",
+// ];
 
-configCancelChangesFolders = [
-  "Building_a_Magazine",
-  "Cat_Photo_App",
-];
-
-configCancelChangesFolders.forEach((el, i, arr) => {
-  execSync(`git restore ${el}`);
-  execSync(`git restore --staged ${el}`);
-  execSync(`git restore ${el}`);
-  execSync(`git clean -f ${el}`);
-});
+// configCancelChangesFolders.forEach((el, i, arr) => {
+//   execSync(`git restore ${el}`);
+//   execSync(`git restore --staged ${el}`);
+//   execSync(`git restore ${el}`);
+//   execSync(`git clean -f ${el}`);
+// });
