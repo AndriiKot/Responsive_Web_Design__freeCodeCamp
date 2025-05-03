@@ -8,5 +8,36 @@
 
 ## Courses
 
-#### [Learn CSS Grid by Building a Magazine](https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp#)
+#### [Learn HTML by Building a Cat Photo App](https://github.com/AndriiKot/Desing___Cat_Photo_App___freeCodeCamp)
 
+#### [Learn CSS Grid by Building a Magazine](https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp)
+
+### In Development:
+
+#### [Learn Basic CSS by Building a Cafe Menu]()
+
+#### [Learn CSS Colors by Building a Set of Colored Markers]()
+
+#### [Learn HTML Forms by Building a Registration Form]()
+
+#### [Learn the CSS Box Model by Building a Rothko Painting]()
+
+#### [Learn CSS Flexbox by Building a Photo Gallery]()
+
+#### [Learn Typography by Building a Nutrition Label]()
+
+#### [Learn Accessibility by Building a Quiz]()
+
+#### [Learn More About CSS Pseudo Selectors by Building A Balance Sheet]()
+
+#### [Learn Intermediate CSS by Building a Cat Painting]()
+
+#### [Learn Responsive Web Design by Building a Piano]()
+
+#### [Learn CSS Variables by Building a City Skyline]()
+
+#### [Learn CSS Transforms by Building a Penguin]()
+
+#### [Learn CSS Animations by Building a Ferris Wheel]()
+
+[back to top](#top)

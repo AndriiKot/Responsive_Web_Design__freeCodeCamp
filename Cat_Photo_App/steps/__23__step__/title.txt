@@ -1,0 +1,20 @@
+Step  23
+
+The li element is used 
+to create a list item in an 
+ordered or unordered list.
+Here is an example 
+of list items in an unordered list:
+Example 
+Code&lt;ul&gt;
+  &lt;li&gt;milk&lt;/li&gt;
+  &lt;li&gt;cheese&lt;/li&gt;
+&lt;/ul&gt;
+
+Within the ul 
+element nest three list items to display 
+three things cats love:
+catnip
+laser pointers
+lasagna
+ 
