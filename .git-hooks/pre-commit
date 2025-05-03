@@ -9,7 +9,7 @@ const { execSync } = require("child_process");
 
 configCancelChangesFolders = [
   "Cat_Photo_App",
- // "Magazine",
+  "Magazine",
 
   // IN DEVELOPMENT:
 
