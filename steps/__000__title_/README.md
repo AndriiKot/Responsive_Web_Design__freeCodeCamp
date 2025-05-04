@@ -11,7 +11,7 @@
 <p>
 
 <h4>preview</h4>
-    <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step01.png" alt="preview_step01">
+    <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step001.png" alt="preview_step01">
   
 
 [back to top](#top)
