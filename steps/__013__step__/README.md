@@ -17,13 +17,21 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  13</h3>
+
+<section>
+<p>Center the parts of your building by turning the <code>.bb1</code> element into a flexbox parent. Use the <code>flex-direction</code> and <code>align-items</code> properties to center the children.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step013.png" alt="preview_step013">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
