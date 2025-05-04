@@ -17,13 +17,21 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  14</h3>
+
+<section>
+<p>Now you have something that is resembling a building. You are ready to create your first variable. Variable declarations begin with two dashes (<code>-</code>) and are given a name and a value like this: <code>--variable-name: value;</code>. In the rule for the <code>bb1</code> class, create a variable named <code>--building-color1</code> and give it a value of <code>#999</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step014.png" alt="preview_step014">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
