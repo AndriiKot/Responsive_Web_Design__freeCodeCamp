@@ -10,7 +10,7 @@
        
 <table>
   <thead>
-    <tr><th><a href="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp//tree/main/steps/__000__title_" target="_self">Step 0</a></th><th><a href="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp//tree/main/steps/__001__step__" target="_self">Step 1</a></th><th><a href="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp//tree/main/steps/__002__step__" target="_self">Step 2</a></th><th><a href="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp//tree/main/steps/__003__step__" target="_self">Step 3</a></th></tr>
+    <tr><th><a href="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp//tree/main/steps/__000__title_" target="_self">Step 0</a></th><th><a href="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp//tree/main/steps/__001__step__" target="_self">Step 1</a></th><th><a href="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp//tree/main/steps/__002__step__" target="_self">Step 2</a></th><th><a href="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp//tree/main/steps/__003__step__" target="_self">Step 3</a></th><th><a href="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp//tree/main/steps/__004__step__" target="_self">Step 4</a></th></tr>
   </thead>
   <tbody>
   </tbody>
@@ -18,7 +18,7 @@
 </details>
 
 <h4>preview</h4>
-    <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step003.png" alt="preview_step003">
+    <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step004.png" alt="preview_step004">
   
 
 [back to top](#top)
@@ -47,7 +47,11 @@
 ```html
 <!DOCTYPE html>
 <html lang="en">
-  <head></head>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="styles.css">
+    <title>City Skyline</title>
+  </head>
   <body></body>
 </html>
 ```
