@@ -10,7 +10,7 @@
        
 <table>
   <thead>
-    <tr><th><a href="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp//tree/main/steps/__000__title_" target="_self">Step 0</a></th><th><a href="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp//tree/main/steps/__001__step__" target="_self">Step 1</a></th><th><a href="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp//tree/main/steps/__002__step__" target="_self">Step 2</a></th></tr>
+    <tr><th><a href="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp//tree/main/steps/__000__title_" target="_self">Step 0</a></th><th><a href="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp//tree/main/steps/__001__step__" target="_self">Step 1</a></th><th><a href="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp//tree/main/steps/__002__step__" target="_self">Step 2</a></th><th><a href="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp//tree/main/steps/__003__step__" target="_self">Step 3</a></th></tr>
   </thead>
   <tbody>
   </tbody>
@@ -18,7 +18,7 @@
 </details>
 
 <h4>preview</h4>
-    <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step002.png" alt="preview_step002">
+    <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step003.png" alt="preview_step003">
   
 
 [back to top](#top)
@@ -46,7 +46,10 @@
 
 ```html
 <!DOCTYPE html>
-<html lang="en"></html>
+<html lang="en">
+  <head></head>
+  <body></body>
+</html>
 ```
 
 
