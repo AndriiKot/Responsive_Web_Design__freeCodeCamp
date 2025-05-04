@@ -17,13 +17,21 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  7</h3>
+
+<section>
+<p>You can see the <code>body</code> (it's the inner-most box on your page); the box around it is the <code>html</code> element. Make your <code>body</code> fill the whole viewport by giving it a <code>height</code> of <code>100vh</code>. Remove the default <code>margin</code> from the <code>body</code> by setting the <code>margin</code> to <code>0</code>. Finally, set the <code>overflow</code> property to <code>hidden</code> to hide any scroll bars that appear when something extends past the viewport.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step007.png" alt="preview_step007">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
