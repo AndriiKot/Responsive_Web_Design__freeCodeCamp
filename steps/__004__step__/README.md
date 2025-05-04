@@ -17,13 +17,21 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  4</h3>
+
+<section>
+<p>Within the <code>head</code>, nest a <code>meta</code> element with a <code>charset</code> of <code>UTF-8</code>, a <code>title</code> element with a title of <code>City Skyline</code>, and a <code>link</code> element that links your <code>styles.css</code> file.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step004.png" alt="preview_step004">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
