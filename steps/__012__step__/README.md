@@ -17,13 +17,21 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  12</h3>
+
+<section>
+<p>Give the parts of your building <code>width</code> and <code>height</code> properties with these values: <code>70%</code> and <code>10%</code> to <code>.bb1a</code>, <code>80%</code> and <code>10%</code> to <code>.bb1b</code>, <code>90%</code> and <code>10%</code> to <code>.bb1c</code>, and <code>100%</code> and <code>70%</code> to <code>.bb1d</code>. Remember that these percentages are relative to the parent and note that the heights will add up to 100% - vertically filling the container.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step012.png" alt="preview_step012">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
