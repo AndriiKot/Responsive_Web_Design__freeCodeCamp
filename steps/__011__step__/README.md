@@ -17,13 +17,21 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  11</h3>
+
+<section>
+<p>Nest four <code>div</code> elements in the <code>.bb1</code> container. Give them the classes <code>bb1a</code>, <code>bb1b</code>, <code>bb1c</code>, and <code>bb1d</code> in that order. This building will have four sections.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step011.png" alt="preview_step011">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
