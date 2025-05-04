@@ -17,13 +17,21 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  5</h3>
+
+<section>
+<p>In CSS, you can target everything with an asterisk. Add a border to everything by using the <code>*</code> selector, and giving it a <code>border</code> of <code>1px solid black</code>. This is a trick that helps visualize where elements are and their size. You will remove this later.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step005.png" alt="preview_step005">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
