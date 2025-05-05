@@ -17,13 +17,21 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  24</h3>
+
+<section>
+<p>Create a new variable below the other ones named <code>--building-color3</code> and give it a value of <code>#cc6699</code>. Then use it as the <code>background-color</code> of the <code>.bb3</code> class and give it a fallback value of <code>pink</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step024.png" alt="preview_step024">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
