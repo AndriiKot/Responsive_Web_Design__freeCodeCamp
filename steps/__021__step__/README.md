@@ -17,13 +17,21 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  21</h3>
+
+<section>
+<p>The buildings are too spaced out. Squeeze them together by adding two empty <code>div</code> elements to the top of the <code>.background-buildings</code> element, two more at the bottom of it, and one more in between <code>.bb3</code> and <code>.bb4</code>. These will be added as evenly-spaced elements across the container, effectively moving the buildings closer to the center.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step021.png" alt="preview_step021">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
