@@ -17,13 +17,21 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  18</h3>
+
+<section>
+<p>Your first building looks pretty good now. Nest three new <code>div</code> elements in the <code>.background-buildings</code> container and give them the classes of <code>bb2</code>, <code>bb3</code>, and <code>bb4</code> in that order. These will be three more buildings for the background.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step018.png" alt="preview_step018">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
