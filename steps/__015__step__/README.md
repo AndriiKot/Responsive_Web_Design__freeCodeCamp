@@ -17,13 +17,22 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  15</h3>
+
+<section>
+<p>To use a variable, put the variable name in parentheses with <code>var</code> in front of them like this: <code>var(--variable-name)</code>. Whatever value you gave the variable will be applied to whatever property you use it on.</p>
+<p>Add the variable <code>--building-color1</code> you created in the previous step as the value of the <code>background-color</code> property of the <code>.bb1a</code> class.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step015.png" alt="preview_step015">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
