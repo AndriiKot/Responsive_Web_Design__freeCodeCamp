@@ -17,13 +17,21 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  22</h3>
+
+<section>
+<p>Create a new variable below your <code>--building-color1</code> variable. Name your new variable <code>--building-color2</code> and give it a value of <code>#66cc99</code>. Then set it as the <code>background-color</code> of <code>.bb2</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step022.png" alt="preview_step022">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
