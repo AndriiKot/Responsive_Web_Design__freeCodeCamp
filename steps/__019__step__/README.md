@@ -17,13 +17,21 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  19</h3>
+
+<section>
+<p>Give the new buildings <code>width</code> and <code>height</code> properties of: <code>10%</code> and <code>50%</code> for <code>.bb2</code>, <code>10%</code> and <code>55%</code> for <code>.bb3</code>, and <code>11%</code> and <code>58%</code> for <code>.bb4</code>. You will be using almost all percent based units and some flexbox for this project, so everything will be completely responsive.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step019.png" alt="preview_step019">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
