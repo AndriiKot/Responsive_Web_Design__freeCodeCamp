@@ -17,13 +17,21 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  20</h3>
+
+<section>
+<p>The buildings are currently stacked on top of each other. Align the buildings by turning the <code>.background-buildings</code> element into a flexbox parent. Use the <code>align-items</code> and <code>justify-content</code> properties to evenly space the buildings across the bottom of the element.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step020.png" alt="preview_step020">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
