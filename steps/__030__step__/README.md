@@ -17,13 +17,21 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  30</h3>
+
+<section>
+<p>Nest six <code>div</code> elements within <code>.foreground-buildings</code> and give them the classes of <code>fb1</code> through <code>fb6</code> in that order. "fb" stands for "foreground building". These will be six more buildings for the foreground.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step030.png" alt="preview_step030">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
