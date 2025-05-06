@@ -17,13 +17,21 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  33</h3>
+
+<section>
+<p>To begin optimizing your code, first move the <code>position</code> and <code>top</code> properties and values from <code>.foreground-buildings</code> to <code>.background-buildings</code>, then change the existing <code>.background-buildings</code> selector to also target <code>.foreground-buildings</code>, so the styles will be applied to both. You can use a comma (<code>,</code>) to separate selectors like this: <code>selector1, selector2</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step033.png" alt="preview_step033">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
