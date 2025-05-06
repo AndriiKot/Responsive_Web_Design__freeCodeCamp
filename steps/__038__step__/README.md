@@ -17,13 +17,21 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  38</h3>
+
+<section>
+<p>Your code is starting to get quite long. Add a comment above the <code>.fb1</code> class that says <code>FOREGROUND BUILDINGS - "fb" stands for "foreground building"</code> to help people understand your code. Above the <code>.bb1</code> class add another comment that says <code>BACKGROUND BUILDINGS - "bb" stands for "background building"</code>. If you don't remember, comments in CSS look like this: <code>/* Comment here */</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step038.png" alt="preview_step038">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
