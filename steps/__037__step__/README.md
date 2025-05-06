@@ -17,13 +17,21 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  37</h3>
+
+<section>
+<p>Move the position of <code>.fb4</code> relative to where it is now by adding a <code>position</code> of <code>relative</code> and <code>left</code> of <code>10%</code> to it. Do the same for <code>.fb5</code> but use <code>right</code> instead of <code>left</code>. This will cover up the remaining white space in between the buildings.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step037.png" alt="preview_step037">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
