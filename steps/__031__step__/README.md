@@ -17,13 +17,21 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  31</h3>
+
+<section>
+<p>Give the six new elements these <code>width</code> and <code>height</code> values: <code>10%</code> and <code>60%</code> to <code>.fb1</code>, <code>10%</code> and <code>40%</code> to <code>.fb2</code>, <code>10%</code> and <code>35%</code> to <code>.fb3</code>, <code>8%</code> and <code>45%</code> to <code>.fb4</code>, <code>10%</code> and <code>33%</code> to <code>.fb5</code>, and <code>9%</code> and <code>38%</code> to <code>.fb6</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step031.png" alt="preview_step031">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
