@@ -17,13 +17,21 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  36</h3>
+
+<section>
+<p>Squeeze the buildings together again by adding two empty <code>div</code> elements within both the top and bottom of the <code>.foreground-buildings</code> element, and one more in between <code>.fb2</code> and <code>.fb3</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step036.png" alt="preview_step036">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
