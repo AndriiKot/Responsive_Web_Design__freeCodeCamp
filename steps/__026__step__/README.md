@@ -17,13 +17,21 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  26</h3>
+
+<section>
+<p>Now that you've worked the bugs out and the buildings are the right colors, you can remove the fallback values in the two places they were used. Go ahead and do that now.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step026.png" alt="preview_step026">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
