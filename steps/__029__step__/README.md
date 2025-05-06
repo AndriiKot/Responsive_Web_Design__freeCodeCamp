@@ -17,13 +17,21 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  29</h3>
+
+<section>
+<p>You want the <code>.foreground-buildings</code> container to sit directly on top of the <code>.background-buildings</code> element. Give it a <code>width</code> and <code>height</code> of <code>100%</code>, set the <code>position</code> to <code>absolute</code>, and the <code>top</code> to <code>0</code>. This will make it the same size as the body and move the start of it to the top left corner.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step029.png" alt="preview_step029">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
