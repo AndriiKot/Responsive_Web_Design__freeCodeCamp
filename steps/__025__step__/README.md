@@ -17,13 +17,21 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  25</h3>
+
+<section>
+<p>That didn't work, because the variables you declared in <code>.bb1</code> do not cascade to the <code>.bb2</code> and <code>.bb3</code> sibling elements. That's just how CSS works. Because of this, variables are often declared in the <code>:root</code> selector. This is the highest level selector in CSS; putting your variables there will make them usable everywhere. Add the <code>:root</code> selector to the top of your stylesheet, and move all your variable declarations there.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step025.png" alt="preview_step025">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
