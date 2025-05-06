@@ -17,13 +17,21 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  35</h3>
+
+<section>
+<p>The skyline is coming together. Fill in the <code>background-color</code> property of the foreground buildings. Use your <code>--building-color1</code> variable to fill in <code>.fb3</code> and <code>.fb4</code>, <code>--building-color2</code> for <code>.fb5</code>, <code>--building-color3</code> for <code>.fb2</code> and <code>.fb6</code>, and <code>--building-color4</code> for <code>.fb1</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step035.png" alt="preview_step035">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
