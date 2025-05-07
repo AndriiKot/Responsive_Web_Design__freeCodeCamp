@@ -1,6 +1,7 @@
-Step  42
+Step  43
 
-Add the new bb1-window class 
-to the .bb1a, .bb1b, and .bb1c elements. 
-This will apply the gradient to them.
+You don't need the height 
+or background-color properties in .bb1a, .bb1b or 
+.bb1c anymore, so go ahead and remove 
+them.
  

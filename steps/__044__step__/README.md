@@ -17,13 +17,28 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  44</h3>
+
+<section>
+<p>Gradients can use as many colors as you want like this:</p>
+<details class="code-details" open=""><summary class="code-details-summary">Example Code</summary><pre class="language-css" tabindex="0" role="region" aria-label="CSS code example"><code class="language-css"><span class="token function">gradient-type</span><span class="token punctuation">(</span>
+  color1<span class="token punctuation">,</span>
+  color2<span class="token punctuation">,</span>
+  color3
+<span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre></details>
+<p>Add a <code>linear-gradient</code> to <code>.bb1d</code> with <code>orange</code> as the first color, <code>--building-color1</code> as the second, and <code>--window-color1</code> as the third. Remember to use the gradient on the <code>background</code> property.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step044.png" alt="preview_step044">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
