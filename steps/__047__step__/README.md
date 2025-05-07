@@ -17,13 +17,21 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  47</h3>
+
+<section>
+<p>Remove <code>orange</code> from the <code>.bb1d</code> gradient and change the <code>80%</code> to <code>50%</code>. This will make <code>--building-color1</code> solid for the top half, and then transition to <code>--window-color1</code> for the bottom half.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step047.png" alt="preview_step047">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
