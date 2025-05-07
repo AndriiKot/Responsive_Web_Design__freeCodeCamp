@@ -17,13 +17,21 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  41</h3>
+
+<section>
+<p>You want to add the same gradient to the next two sections. Instead of doing that, create a new class selector called <code>bb1-window</code>, and move the <code>height</code> and <code>background</code> properties and values from <code>.bb1a</code> to the new class selector.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step041.png" alt="preview_step041">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
