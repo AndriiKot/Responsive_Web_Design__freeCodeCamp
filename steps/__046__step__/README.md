@@ -17,13 +17,28 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  46</h3>
+
+<section>
+<p>You can specify where you want a gradient transition to complete by adding it to the color like this:</p>
+<details class="code-details" open=""><summary class="code-details-summary">Example Code</summary><pre class="language-css" tabindex="0" role="region" aria-label="CSS code example"><code class="language-css"><span class="token function">gradient-type</span><span class="token punctuation">(</span>
+  color1<span class="token punctuation">,</span>
+  color2 20%<span class="token punctuation">,</span>
+  color3
+<span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre></details>
+<p>Here, it will transition from <code>color1</code> to <code>color2</code> between <code>0%</code> and <code>20%</code> of the element and then transition to <code>color3</code> for the rest. Add <code>80%</code> to the <code>--building-color1</code> color of the <code>.bb1d</code> gradient so you can see it in action.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step046.png" alt="preview_step046">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
