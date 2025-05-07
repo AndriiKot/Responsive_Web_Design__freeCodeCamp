@@ -17,13 +17,27 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  40</h3>
+
+<section>
+<p>Gradients in CSS are a way to transition between colors across the distance of an element. They are applied to the <code>background</code> property and the syntax looks like this:</p>
+<details class="code-details" open=""><summary class="code-details-summary">Example Code</summary><pre class="language-css" tabindex="0" role="region" aria-label="CSS code example"><code class="language-css"><span class="token function">gradient-type</span><span class="token punctuation">(</span>
+  color1<span class="token punctuation">,</span>
+  color2
+<span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre></details>
+<p>In the example, <code>color1</code> is solid at the top, <code>color2</code> is solid at the bottom, and in between it transitions evenly from one to the next. In <code>.bb1a</code>, add a <code>background</code> property below the <code>background-color</code> property. Set it as a gradient of type <code>linear-gradient</code> that uses <code>--building-color1</code> as the first color and <code>--window-color1</code> as the second.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step040.png" alt="preview_step040">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
