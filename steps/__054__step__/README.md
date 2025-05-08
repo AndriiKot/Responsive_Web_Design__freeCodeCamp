@@ -17,13 +17,30 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  54</h3>
+
+<section>
+<p>Create and add the following properties to <code>.bb2a</code>:</p>
+<details class="code-details" open=""><summary class="code-details-summary">Example Code</summary><pre class="language-css" tabindex="0" role="region" aria-label="CSS code example"><code class="language-css"><span class="token property">margin</span><span class="token punctuation">:</span> auto<span class="token punctuation">;</span>
+<span class="token property">width</span><span class="token punctuation">:</span> 5vw<span class="token punctuation">;</span>
+<span class="token property">height</span><span class="token punctuation">:</span> 5vw<span class="token punctuation">;</span>
+<span class="token property">border-top</span><span class="token punctuation">:</span> 1vw solid #000<span class="token punctuation">;</span>
+<span class="token property">border-bottom</span><span class="token punctuation">:</span> 1vw solid #000<span class="token punctuation">;</span>
+<span class="token property">border-left</span><span class="token punctuation">:</span> 1vw solid #999<span class="token punctuation">;</span>
+<span class="token property">border-right</span><span class="token punctuation">:</span> 1vw solid #999<span class="token punctuation">;</span>
+</code></pre></details>
+<p>After you add these, you can see how a thick border on an element gives you some angles where two sides meet. You are going to use that bottom border as the top of the building.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step054.png" alt="preview_step054">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
