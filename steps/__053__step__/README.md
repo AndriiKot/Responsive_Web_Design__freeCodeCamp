@@ -17,13 +17,21 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  53</h3>
+
+<section>
+<p>In the next few steps, you are going to use some tricks with CSS borders to turn the <code>.bb2a</code> section into a triangle at the top of the building. First, remove the <code>background-color</code> from <code>.bb2</code> since you don't need it anymore.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step053.png" alt="preview_step053">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
