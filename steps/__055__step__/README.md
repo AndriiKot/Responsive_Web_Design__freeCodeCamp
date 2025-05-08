@@ -17,13 +17,21 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  55</h3>
+
+<section>
+<p>Next, remove the <code>width</code> and <code>height</code> from <code>.bb2a</code>, and change the <code>border-left</code> and <code>border-right</code> to use <code>5vw</code> instead of <code>1vw</code>. The element will now have zero size and the borders will come together in the middle.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step055.png" alt="preview_step055">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
