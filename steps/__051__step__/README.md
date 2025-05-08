@@ -17,13 +17,29 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  51</h3>
+
+<section>
+<p>Gradient transitions often gradually change from one color to another. When a more abrupt change is required, the transition can be made with a hard stop like this:</p>
+<details class="code-details" open=""><summary class="code-details-summary">Example Code</summary><pre class="language-css" tabindex="0" role="region" aria-label="CSS code example"><code class="language-css"><span class="token function">linear-gradient</span><span class="token punctuation">(</span>
+  <span class="token function">var</span><span class="token punctuation">(</span>--first-color<span class="token punctuation">)</span> 0%<span class="token punctuation">,</span>
+  <span class="token function">var</span><span class="token punctuation">(</span>--first-color<span class="token punctuation">)</span> 40%<span class="token punctuation">,</span>
+  <span class="token function">var</span><span class="token punctuation">(</span>--second-color<span class="token punctuation">)</span> 40%<span class="token punctuation">,</span>
+  <span class="token function">var</span><span class="token punctuation">(</span>--second-color<span class="token punctuation">)</span> 80%
+<span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre></details>
+<p>Add a <code>linear-gradient</code> to <code>.bb2b</code> that uses <code>--building-color2</code> from <code>0%</code> to <code>6%</code> and <code>--window-color2</code> from <code>6%</code> to <code>9%</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step051.png" alt="preview_step051">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
