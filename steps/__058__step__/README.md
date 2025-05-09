@@ -17,13 +17,21 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  58</h3>
+
+<section>
+<p>Finally, on the <code>border-bottom</code> property of <code>.bb2a</code>, change the <code>1vw</code> to <code>5vh</code> and change the <code>#000</code> color to your <code>--building-color2</code> variable. There you go, now it looks good! At any time throughout this project, you can comment out or remove the <code>border</code> property you added to everything at the beginning to see what the buildings will look like when that gets removed at the end.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step058.png" alt="preview_step058">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
