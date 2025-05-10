@@ -17,13 +17,21 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  63</h3>
+
+<section>
+<p>Give the new <code>div</code> elements these <code>width</code> and <code>height</code> values: <code>3%</code> and <code>10%</code> to <code>.bb4a</code>, <code>80%</code> and <code>5%</code> to <code>.bb4b</code>, and <code>100%</code> and <code>85%</code> to <code>.bb4c</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step063.png" alt="preview_step063">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
