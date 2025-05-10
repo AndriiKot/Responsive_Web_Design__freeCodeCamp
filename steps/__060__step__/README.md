@@ -17,13 +17,29 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  60</h3>
+
+<section>
+<p>So far, all the gradients you created have gone from top to bottom, that's the default direction. You can specify another direction by adding it before your colors like this:</p>
+<details class="code-details" open=""><summary class="code-details-summary">Example Code</summary><pre class="language-css" tabindex="0" role="region" aria-label="CSS code example"><code class="language-css"><span class="token function">gradient-type</span><span class="token punctuation">(</span>
+  direction<span class="token punctuation">,</span>
+  color1<span class="token punctuation">,</span>
+  color2
+<span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre></details>
+<p>Fill in <code>.bb3</code> with a <code>repeating-linear-gradient</code>. Use <code>90deg</code> for the direction, your <code>building-color3</code> for the first two colors, and <code>window-color3</code> at <code>15%</code> for the third.</p>
+<p>When you don't specify a distance for a color, it will use the values that makes sense. In this case, the first two colors will default to <code>0%</code> and <code>7.5%</code> because it starts at <code>0%</code>, and <code>7.5%</code> is half of the <code>15%</code>, so you do not need to set them.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step060.png" alt="preview_step060">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
