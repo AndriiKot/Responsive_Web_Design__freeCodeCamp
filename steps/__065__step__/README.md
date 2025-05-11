@@ -17,13 +17,21 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  65</h3>
+
+<section>
+<p>You want <code>.bb4</code> to share the properties of <code>.bb1</code> that center the sections. Instead of duplicating that code, create a new class above the background building comment called <code>building-wrap</code>. Leave it empty for now; this class will be used in a few places to save you some coding.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step065.png" alt="preview_step065">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
