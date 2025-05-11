@@ -17,13 +17,21 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  73</h3>
+
+<section>
+<p>Looks good! On to the foreground buildings! Turn the <code>.fb1</code> building into three sections by nesting three new <code>div</code> elements within it. Give them the classes of <code>fb1a</code>, <code>fb1b</code> and <code>fb1c</code>, in that order.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step073.png" alt="preview_step073">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
