@@ -17,13 +17,21 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  79</h3>
+
+<section>
+<p>You're going to use some more border tricks for the top section. Add a <code>border-bottom</code> with a value of <code>7vh solid var(--building-color4)</code> to <code>.fb1a</code>. This will put a <code>7vh</code> height border on the bottom. But since the element has zero size, it only shows up as a 2px wide line from the 1px border that is on all the elements.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step079.png" alt="preview_step079">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
