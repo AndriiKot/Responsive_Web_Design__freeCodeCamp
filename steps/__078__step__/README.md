@@ -17,13 +17,29 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  78</h3>
+
+<section>
+<p>You can add multiple gradients to an element by separating them with a comma (<code>,</code>) like this:</p>
+<details class="code-details" open=""><summary class="code-details-summary">Example Code</summary><pre class="language-css" tabindex="0" role="region" aria-label="CSS code example"><code class="language-css"><span class="token function">gradient1</span><span class="token punctuation">(</span>
+  colors
+<span class="token punctuation">)</span><span class="token punctuation">,</span>
+<span class="token function">gradient2</span><span class="token punctuation">(</span>
+  colors
+<span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre></details>
+<p>Add a <code>repeating-linear-gradient</code> to <code>.fb1c</code> below the one that's there; use your <code>--building-color4</code> from <code>0%</code> to <code>10%</code> and <code>--window-color4</code> from <code>10%</code> and <code>90%</code>. This will fill in behind the gradient you added last.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step078.png" alt="preview_step078">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
