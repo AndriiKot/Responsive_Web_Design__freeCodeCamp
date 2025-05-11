@@ -17,13 +17,21 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  71</h3>
+
+<section>
+<p>The windows are stacked on top of each other at the left of the section, behind the purple building. Add a new class below <code>.building-wrap</code> called <code>window-wrap</code>. Make <code>.window-wrap</code> a flexbox container, and use the <code>align-items</code> and <code>justify-content</code> properties to center its child elements vertically and evenly space them in their parent, respectively.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step071.png" alt="preview_step071">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
