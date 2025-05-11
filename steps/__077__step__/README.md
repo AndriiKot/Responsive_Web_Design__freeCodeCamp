@@ -17,13 +17,22 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  77</h3>
+
+<section>
+<p>Don't worry about the space at the bottom, everything will get moved down later when you add some height to the element at the top of the building.</p>
+<p>Add a <code>repeating-linear-gradient</code> to <code>.fb1c</code> with a <code>90deg</code> angle, your <code>--building-color4</code> from <code>0%</code> to <code>10%</code> and <code>transparent</code> from <code>10%</code> to <code>15%</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step077.png" alt="preview_step077">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
