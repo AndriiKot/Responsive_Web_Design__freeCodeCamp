@@ -17,13 +17,21 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  70</h3>
+
+<section>
+<p>Give the <code>bb4-window</code> class a <code>width</code> of <code>18%</code>, a <code>height</code> of <code>90%</code>, and add your <code>--window-color4</code> variable as the <code>background-color</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step070.png" alt="preview_step070">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
