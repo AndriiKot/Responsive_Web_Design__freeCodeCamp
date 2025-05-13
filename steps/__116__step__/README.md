@@ -17,13 +17,21 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  116</h3>
+
+<section>
+<p>In the <code>sky</code> class of the media query, change the two <code>#ffcf33</code> color values to <code>#ccc</code>, the <code>#ffff66</code> to <code>#445</code>, and the <code>#bbeeff</code> to <code>#223</code>. Then you can resize your window to see the background change colors.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step116.png" alt="preview_step116">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
