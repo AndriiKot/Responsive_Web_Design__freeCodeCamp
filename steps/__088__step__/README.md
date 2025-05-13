@@ -17,13 +17,21 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  88</h3>
+
+<section>
+<p>For the next building, nest four <code>div</code> elements within <code>.fb3</code> with classes of <code>fb3a</code>, <code>fb3b</code>, <code>fb3a</code> again, and <code>fb3b</code> again, in that order. This building will have four sections, and the top two will be almost the same as the bottom two.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step088.png" alt="preview_step088">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
