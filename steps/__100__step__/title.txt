@@ -1,6 +1,7 @@
-Step  99
+Step  100
 
-Nest six div elements within 
-.fb4b and give them all a class 
-of fb4-window.
+Give the .fb4-window elements a 
+width of 30%, height of 10%, and 
+border-radius of 50%. These will make some 
+circular windows for this building.
  
