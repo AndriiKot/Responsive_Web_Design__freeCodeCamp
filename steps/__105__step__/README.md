@@ -17,13 +17,21 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  105</h3>
+
+<section>
+<p>Add another <code>repeating-linear-gradient</code> below the one you just added. Give it a <code>90deg</code> direction, use your building color from <code>0%</code> to <code>12%</code> and window color <code>12%</code> to <code>44%</code>. This will make a bunch of rectangle windows.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step105.png" alt="preview_step105">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
