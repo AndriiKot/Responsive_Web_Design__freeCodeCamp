@@ -17,13 +17,21 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  104</h3>
+
+<section>
+<p>On to the next building! It's the green one in the foreground. Give it a <code>repeating-linear-gradient</code> with your building color from <code>0%</code> to <code>5%</code>, and <code>transparent</code> from <code>5%</code> to <code>10%</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step104.png" alt="preview_step104">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
