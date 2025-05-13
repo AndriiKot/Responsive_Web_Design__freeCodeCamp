@@ -17,13 +17,21 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  85</h3>
+
+<section>
+<p>Give the <code>.fb2-window</code> elements a <code>width</code> of <code>22%</code>, <code>height</code> of <code>100%</code>, and a <code>background-color</code> of your <code>--window-color3</code> variable.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step085.png" alt="preview_step085">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
