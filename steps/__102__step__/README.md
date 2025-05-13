@@ -17,13 +17,21 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  102</h3>
+
+<section>
+<p>The windows are stacked on top of each other on the rightmost purple building. Turn the building into a flexbox parent, and use the <code>flex-wrap</code> property to put the windows side by side, and push them down to a new row when they don't fit.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step102.png" alt="preview_step102">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
