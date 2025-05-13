@@ -17,13 +17,21 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  87</h3>
+
+<section>
+<p>For <code>.fb2a</code>, add a <code>border-bottom</code> of <code>10vh solid var(--building-color3)</code>, and a <code>border-left</code> and <code>border-right</code> of <code>1vw solid transparent</code>. This time the border trick will create a trapezoid shape.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step087.png" alt="preview_step087">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
