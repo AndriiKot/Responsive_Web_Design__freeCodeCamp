@@ -17,13 +17,21 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  82</h3>
+
+<section>
+<p>Give <code>.fb2a</code> a <code>width</code> of <code>100%</code> and <code>.fb2b</code> a <code>width</code> of <code>100%</code> and <code>height</code> of <code>75%</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step082.png" alt="preview_step082">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
