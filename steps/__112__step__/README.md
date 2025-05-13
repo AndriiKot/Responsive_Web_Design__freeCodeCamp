@@ -17,13 +17,21 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  112</h3>
+
+<section>
+<p>Give the <code>sky</code> class a <code>radial-gradient</code>. Use <code>#ffcf33</code> from <code>0%</code> to <code>20%</code>, <code>#ffff66</code> at <code>21%</code>, and <code>#bbeeff</code> at <code>100%</code>. This will add circular gradient to the background that will be your sun.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step112.png" alt="preview_step112">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
