@@ -17,13 +17,26 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  114</h3>
+
+<section>
+<p>A media query can be used to change styles based on certain conditions, and they look like this:</p>
+<details class="code-details" open=""><summary class="code-details-summary">Example Code</summary><pre class="language-css" tabindex="0" role="region" aria-label="CSS code example"><code class="language-css"><span class="token atrule"><span class="token rule">@media</span> <span class="token punctuation">(</span>condition<span class="token punctuation">)</span></span> <span class="token punctuation">{</span>
+
+<span class="token punctuation">}</span>  
+</code></pre></details>
+<p>Add an empty media query at the bottom of your stylesheet with a condition of <code>max-width: 1000px</code>. Styles added in here will take effect when the document size is 1000px wide or less.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step114.png" alt="preview_step114">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
