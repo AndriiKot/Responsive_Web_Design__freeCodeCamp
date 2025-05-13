@@ -17,13 +17,21 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  107</h3>
+
+<section>
+<p>Finally! You made it to the last building! Add a repeating gradient to it with a <code>90deg</code> direction. Use the building color from <code>0%</code> to <code>10%</code> and <code>transparent</code> from <code>10%</code> to <code>30%</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step107.png" alt="preview_step107">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
