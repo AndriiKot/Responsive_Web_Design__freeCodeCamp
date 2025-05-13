@@ -17,13 +17,21 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  103</h3>
+
+<section>
+<p>This building is going to have another triangle on top. Give the top section a <code>border-top</code> of <code>5vh solid transparent</code>, and a <code>border-left</code> that is <code>8vw</code>, <code>solid</code>, and uses your building color variable as the color.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-05-13%20123731.png" alt="Снимок экрана 2025-05-13 123731">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
