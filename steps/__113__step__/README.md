@@ -17,13 +17,21 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  113</h3>
+
+<section>
+<p>At the top of the sky gradient color list, where you would put a direction for the gradient; add <code>circle closest-corner at 15% 15%,</code>. This will move the start of the gradient to <code>15%</code> from the top and left. It will make it end at the <code>closest-corner</code> and it will maintain a <code>circle</code> shape. These are some keywords built into gradients to describe how it behaves.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step113.png" alt="preview_step113">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
