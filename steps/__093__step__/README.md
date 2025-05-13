@@ -17,13 +17,21 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  93</h3>
+
+<section>
+<p>Give the <code>.fb3-window</code> elements a <code>width</code> of <code>25%</code>, a <code>height</code> of <code>80%</code>, and use your <code>--window-color1</code> variable as the <code>background-color</code> value.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step093.png" alt="preview_step093">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
