@@ -17,13 +17,22 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  115</h3>
+
+<section>
+<p>Copy and paste your whole <code>sky</code> class along with all of its properties and values into the media query. You are going to make another color scheme for the skyline that changes it from day to night.</p>
+<p>Note: You are going to need to scroll past the editable region to copy the class.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step115.png" alt="preview_step115">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
