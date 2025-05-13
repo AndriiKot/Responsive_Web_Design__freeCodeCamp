@@ -17,13 +17,21 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  117</h3>
+
+<section>
+<p>Add a <code>:root</code> selector to the top of your media query. Then redefine all four of the <code>--building-color</code> variables to use the value <code>#000</code> there.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step117.png" alt="preview_step117">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
