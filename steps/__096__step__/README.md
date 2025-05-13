@@ -17,13 +17,21 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  96</h3>
+
+<section>
+<p>Only three more buildings to go. Nest two new <code>div</code> elements within the <code>.fb4</code> element and give them the classes of <code>fb4a</code> and <code>fb4b</code>, in that order. Remember that you sort of flipped the location of <code>.fb4</code> and <code>.fb5</code>, so it's the rightmost purple building you are working on now.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step096.png" alt="preview_step096">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
