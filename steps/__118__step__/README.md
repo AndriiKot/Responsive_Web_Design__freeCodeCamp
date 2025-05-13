@@ -17,13 +17,22 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  118</h3>
+
+<section>
+<p>Lastly, in the <code>:root</code> selector of the media query, redefine all four of the <code>--window-color</code> variables to use <code>#777</code>. When you're done, resize the window and watch it go from day to night.</p>
+<p>Variables are primarily used with colors, and that's how you used them here. But they can be given any value and used on any property. Your project looks great!</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview_step118.png" alt="preview_step118">
   
-
-[back to top](#top)
-
-
 <table>
   <thead>
       <tr><th height=33 width=100>HTML5</th><th height=33 width=100>CSS</th></tr>
