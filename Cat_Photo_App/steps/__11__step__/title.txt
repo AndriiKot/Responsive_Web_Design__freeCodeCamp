@@ -1,0 +1,15 @@
+Step  11
+
+A link's text must be 
+placed between the opening and closing tags 
+of an anchor (a) element.
+Here is an 
+example of a link with the text 
+click here to go to freeCodeCamp.org:
+Example Code&lt;a 
+href="https://www.freecodecamp.org"&gt;click here to go to freeCodeCamp.org&lt;/a&gt;
+
+Add the 
+anchor text cat photos to the anchor 
+element. This will become the link's text.
+ 

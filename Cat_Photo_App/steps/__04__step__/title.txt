@@ -1,0 +1,18 @@
+Step  4
+
+Commenting allows you to leave 
+messages without affecting the browser display. It 
+also allows you to make code inactive. 
+A comment in HTML starts with &lt;!--, 
+contains any number of lines of text, 
+and ends with --&gt;.
+Here is an example 
+of a comment with the TODO: Remove 
+h1:
+Example Code&lt;!-- TODO: Remove h1 --&gt;
+
+Add a 
+comment above the p element with this 
+text:
+TODO: Add link to cat photos
+ 

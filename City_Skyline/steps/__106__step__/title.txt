@@ -1,0 +1,6 @@
+Step  106
+
+You don't need the background-color 
+for this building anymore so you can 
+remove that property.
+ 

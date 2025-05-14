@@ -1,0 +1,23 @@
+Step  58
+
+There's another way to associate 
+an input element's text with the element 
+itself. You can nest the text within 
+a label element and add a for 
+attribute with the same value as the 
+input element's id attribute.
+Given an input element 
+as below:
+Example Code&lt;input id="breakfast" type="radio" name="meal" value="breakfast"&gt;
+
+An 
+example of a label element that is 
+associated to this input element is:
+Example Code&lt;label 
+for="breakfast"&gt;Breakfast&lt;/label&gt;
+
+Associate the text Loving with the checkbox 
+by nesting only the text Loving in 
+a label element and giving it an 
+appropriate for attribute.
+ 

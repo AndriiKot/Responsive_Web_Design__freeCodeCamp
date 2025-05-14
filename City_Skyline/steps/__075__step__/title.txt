@@ -1,0 +1,5 @@
+Step  75
+
+Add the building-wrap class to 
+the .fb1 element to center the sections.
+ 

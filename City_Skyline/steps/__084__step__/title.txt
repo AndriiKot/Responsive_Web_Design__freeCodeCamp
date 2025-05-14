@@ -1,0 +1,5 @@
+Step  84
+
+Add your window-wrap class to 
+.fb2b to position the new window elements.
+ 

@@ -1,0 +1,7 @@
+Step  13
+
+Center the parts of your 
+building by turning the .bb1 element into 
+a flexbox parent. Use the flex-direction and 
+align-items properties to center the children.
+ 

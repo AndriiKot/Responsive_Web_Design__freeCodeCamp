@@ -1,5 +1,6 @@
 #!/usr/bin/env node
 
+/*
 const path = require("path");
 const { execSync } = require("child_process");
 
@@ -9,7 +10,8 @@ const { execSync } = require("child_process");
 
 configCancelChangesFolders = [
   "Cat_Photo_App",
-   "Magazine",
+  "Magazine",
+  "City_Skyline",
 
   // IN DEVELOPMENT:
 
@@ -23,14 +25,14 @@ configCancelChangesFolders = [
   // "Balance_Sheet",
   // "Cat_Painting",
   // "Piano",
-  // "City_Skyline",
   // "Penguin",
   // "Ferris_Wheel",
 ];
 
 configCancelChangesFolders.forEach((el, i, arr) => {
-//  execSync(`git restore ${el}`);
-//  execSync(`git restore --staged ${el}`);
-//  execSync(`git restore ${el}`);
- // execSync(`git clean -f ${el}`);
+  execSync(`git restore ${el}`);
+  execSync(`git restore --staged ${el}`);
+  execSync(`git restore ${el}`);
+  execSync(`git clean -f ${el}`);
 });
+ */
