@@ -8,6 +8,7 @@ const { execSync } = require("child_process");
 // execSync(`git restore --staged ${}`)                // if you 'A'
 
 execSync('git status --porcelain')
+execSync('git status')
 
 configCancelChangesFolders = [
   "Cat_Photo_App",
