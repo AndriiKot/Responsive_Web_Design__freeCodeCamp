@@ -1,0 +1,8 @@
+Git Status (--porcelain):
+M  .git-hooks/pre-commit
+
+Git Status (full):
+On branch dev-git-hooks
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   .git-hooks/pre-commit
