@@ -1,8 +1,10 @@
 Git Status (--porcelain):
-M  .git-hooks/pre-commit
+A  .git-hooks/after-test-git-hooks.txt
+A  .git-hooks/before-test-git-hooks.txt
 
 Git Status (full):
 On branch dev-git-hooks
 Changes to be committed:
   (use "git restore --staged <file>..." to unstage)
-	modified:   .git-hooks/pre-commit
+	new file:   .git-hooks/after-test-git-hooks.txt
+	new file:   .git-hooks/before-test-git-hooks.txt
