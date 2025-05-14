@@ -28,9 +28,16 @@ configCancelChangesFolders = [
   // "Ferris_Wheel",
 ];
 
+
 configCancelChangesFolders.forEach((el, i, arr) => {
   execSync(`git restore ${el}`);
   execSync(`git restore --staged ${el}`);
   execSync(`git restore ${el}`);
   execSync(`git clean -f ${el}`);
 });
+
+const hasChanges = execSync('git status --porcelain').toString().trim().length > 0;
+
+if (!hasChanges) {
+  console.error('No changes left after restore and clean. Skipping commit.');
+}
