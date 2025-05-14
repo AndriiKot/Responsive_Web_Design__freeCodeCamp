@@ -1,0 +1,20 @@
+Step  51
+
+Gradient transitions often gradually change 
+from one color to another. When a 
+more abrupt change is required, the transition 
+can be made with a hard stop 
+like this:
+Example Codelinear-gradient(
+  var(--first-color) 0%,
+  
+var(--first-color) 40%,
+  var(--second-color) 40%,
+  var(--second-color) 
+80%
+);
+
+Add a linear-gradient to .bb2b that uses 
+--building-color2 from 0% to 6% and --window-color2 
+from 6% to 9%.
+ 
