@@ -1,10 +1,14 @@
 Git Status (--porcelain):
-A  .git-hooks/after-test-git-hooks.txt
-A  .git-hooks/before-test-git-hooks.txt
+M  .git-hooks/after-test-git-hooks.txt
+M  .git-hooks/before-test-git-hooks.txt
+D  Magazine/steps/__00__title_/README.md
+D  Magazine/steps/__00__title_/title.txt
 
 Git Status (full):
 On branch dev-git-hooks
 Changes to be committed:
   (use "git restore --staged <file>..." to unstage)
-	new file:   .git-hooks/after-test-git-hooks.txt
-	new file:   .git-hooks/before-test-git-hooks.txt
+	modified:   .git-hooks/after-test-git-hooks.txt
+	modified:   .git-hooks/before-test-git-hooks.txt
+	deleted:    Magazine/steps/__00__title_/README.md
+	deleted:    Magazine/steps/__00__title_/title.txt
