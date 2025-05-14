@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-
+/*
 const path = require("path");
 const { execSync } = require("child_process");
 
@@ -34,3 +34,4 @@ configCancelChangesFolders.forEach((el, i, arr) => {
   execSync(`git restore ${el}`);
   execSync(`git clean -f ${el}`);
 });
+ */
