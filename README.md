@@ -12,6 +12,9 @@
 
 #### [Learn CSS Grid by Building a Magazine](https://github.com/AndriiKot/Desing__CSS_Grid_by_Building_a_Magazine__freeCodeCamp)
 
+#### [Learn CSS Variables by Building a City Skyline](https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp)
+
+
 ### In Development:
 
 #### [Learn Basic CSS by Building a Cafe Menu]()
@@ -33,8 +36,6 @@
 #### [Learn Intermediate CSS by Building a Cat Painting]()
 
 #### [Learn Responsive Web Design by Building a Piano]()
-
-#### [Learn CSS Variables by Building a City Skyline]()
 
 #### [Learn CSS Transforms by Building a Penguin]()
 
