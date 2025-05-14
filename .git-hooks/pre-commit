@@ -10,6 +10,7 @@ const { execSync } = require("child_process");
 configCancelChangesFolders = [
   "Cat_Photo_App",
   "Magazine",
+  "City_Skyline",
 
   // IN DEVELOPMENT:
 
@@ -23,7 +24,6 @@ configCancelChangesFolders = [
   // "Balance_Sheet",
   // "Cat_Painting",
   // "Piano",
-  // "City_Skyline",
   // "Penguin",
   // "Ferris_Wheel",
 ];
