@@ -21,11 +21,11 @@
 
 <h4>City skyline during the day<h4>
 
-    <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview__final-project/light_theme.png" alt="City skyline during the day">
+<img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview__final-project/light_theme.png" alt="City skyline during the day">
 
 <h4>City skyline at night<h4>
 
-    <img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview__final-project/dark_theme.png" alt="City skyline at night">  
+<img src="https://github.com/AndriiKot/Desing___City_Skyline___freeCodeCamp/blob/main/images/previews/preview__final-project/dark_theme.png" alt="City skyline at night">  
 
 [back to top](#top)
 
