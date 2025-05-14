@@ -37,6 +37,7 @@ configCancelChangesFolders.forEach((el, i, arr) => {
 });
 
 const hasChanges = execSync('git status --porcelain').toString().trim().length > 0;
+execSync('git status --porcelain')
 
 if (!hasChanges) {
   console.error('No changes left after restore and clean. Skipping commit.');
