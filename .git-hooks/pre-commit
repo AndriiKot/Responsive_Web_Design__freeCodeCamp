@@ -46,6 +46,9 @@ configCancelChangesFolders.forEach((el, i, arr) => {
   execSync(`git restore --staged ${el}`);
   execSync(`git restore ${el}`);
   execSync(`git clean -f ${el}`);
+
+});
+
 const filePathAfter = path.join(__dirname, 'after-test-git-hooks.txt');
 
 fs.writeFileSync(filePathAfter, `Git Status (--porcelain):
@@ -53,7 +56,6 @@ ${gitStatusOutput}\n
 Git Status (full):
 ${gitStatusFullOutput}`);
 
-});
 
 const hasChanges = execSync('git status --porcelain').toString().trim().length > 0;
 execSync('git status --porcelain')
