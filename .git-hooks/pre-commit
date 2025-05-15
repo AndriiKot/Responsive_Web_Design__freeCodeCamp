@@ -62,3 +62,7 @@ if (!hasChanges) {
   console.error('No changes left after restore and clean. Skipping commit.');
 }
 
+console.log("hi!!")
+
+
+
