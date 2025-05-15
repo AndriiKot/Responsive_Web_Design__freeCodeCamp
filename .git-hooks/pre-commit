@@ -60,6 +60,7 @@ execSync('git status --porcelain')
 
 if (!hasChanges) {
   console.error('No changes left after restore and clean. Skipping commit.');
+  execSync('exit 1');
 }
 
 console.log("hi!!")

@@ -1,8 +1,6 @@
 Git Status (--porcelain):
 M  .git-hooks/after-test-git-hooks.txt
 M  .git-hooks/before-test-git-hooks.txt
-D  City_Skyline/steps/__000__title_/README.md
-D  City_Skyline/steps/__000__title_/title.txt
 
 Git Status (full):
 On branch dev-git-hooks
@@ -10,5 +8,3 @@ Changes to be committed:
   (use "git restore --staged <file>..." to unstage)
 	modified:   .git-hooks/after-test-git-hooks.txt
 	modified:   .git-hooks/before-test-git-hooks.txt
-	deleted:    City_Skyline/steps/__000__title_/README.md
-	deleted:    City_Skyline/steps/__000__title_/title.txt
