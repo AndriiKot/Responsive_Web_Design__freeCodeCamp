@@ -40,7 +40,7 @@ configCancelChangesFolders = [
   // "Ferris_Wheel",
 ];
 
-
+/*
 configCancelChangesFolders.forEach((el, i, arr) => {
   execSync(`git restore ${el}`);
   execSync(`git restore --staged ${el}`);
@@ -48,6 +48,15 @@ configCancelChangesFolders.forEach((el, i, arr) => {
   execSync(`git clean -f ${el}`);
 
 });
+*/
+
+configCancelChangesFolders.reduce((_, el) => {
+  execSync(`git restore ${el}`);
+  execSync(`git restore --staged ${el}`);
+  execSync(`git restore ${el}`);
+  execSync(`git clean -f ${el}`);
+  return null;
+}, null);
 
 const filePathAfter = path.join(__dirname, 'after-test-git-hooks.txt');
 
