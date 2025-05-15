@@ -1,7 +1,8 @@
 Git Status (--porcelain):
 M  .git-hooks/after-test-git-hooks.txt
 M  .git-hooks/before-test-git-hooks.txt
-M  .git-hooks/pre-commit
+D  Cat_Photo_App/steps/__00__title_/README.md
+D  Cat_Photo_App/steps/__00__title_/title.txt
 
 Git Status (full):
 On branch dev-git-hooks
@@ -9,4 +10,5 @@ Changes to be committed:
   (use "git restore --staged <file>..." to unstage)
 	modified:   .git-hooks/after-test-git-hooks.txt
 	modified:   .git-hooks/before-test-git-hooks.txt
-	modified:   .git-hooks/pre-commit
+	deleted:    Cat_Photo_App/steps/__00__title_/README.md
+	deleted:    Cat_Photo_App/steps/__00__title_/title.txt
