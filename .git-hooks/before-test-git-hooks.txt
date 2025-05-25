@@ -1,0 +1,6 @@
+Git Status (--porcelain):
+
+
+Git Status (full):
+On branch dev-git-hooks
+nothing to commit, working tree clean
